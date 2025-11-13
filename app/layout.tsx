@@ -3,8 +3,8 @@ import './globals.css'
 import { AuthProvider } from '@/lib/auth-context'
 
 export const metadata: Metadata = {
-  title: 'NEP 2020 AI Dashboard',
-  description: 'Comprehensive AI-powered dashboard for NEP 2020 implementation',
+  title: 'Pestle Weed AI Dashboard',
+  description: 'Comprehensive AI-powered dashboard',
 }
 
 export default function RootLayout({

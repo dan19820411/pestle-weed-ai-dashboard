@@ -50,7 +50,7 @@ export default function VocationalPage() {
     <div className="p-8">
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-gray-800 mb-2">Vocational Courses</h1>
-        <p className="text-gray-600">Explore skill development programs aligned with NEP 2020</p>
+        <p className="text-gray-600">Explore skill development programs</p>
       </div>
 
       {/* Stats */}
@@ -131,7 +131,7 @@ export default function VocationalPage() {
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mt-8">
         <h3 className="text-lg font-semibold text-blue-900 mb-2">Why Vocational Education?</h3>
         <p className="text-blue-800">
-          As per NEP 2020, vocational education from Classes 6-12 helps develop practical skills, 
+          Vocational education from Classes 6-12 helps develop practical skills, 
           career readiness, and real-world problem-solving abilities. These courses are designed to 
           complement your academic learning with hands-on experience.
         </p>

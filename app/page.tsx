@@ -9,10 +9,10 @@ export default function Home() {
       <div className="max-w-4xl w-full">
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold text-gray-800 mb-4">
-            NEP 2020 AI Dashboard
+            Pestle Weed AI Dashboard
           </h1>
           <p className="text-xl text-gray-600">
-            National Education Policy 2020 Implementation Platform
+            AI Powered Comprehensive Dashboard
           </p>
         </div>
 
@@ -48,7 +48,7 @@ export default function Home() {
                   Principal Portal
                 </h2>
                 <p className="text-gray-600 mb-6">
-                  Monitor school-wide analytics, NEP compliance, student interventions, and comprehensive reports
+                  Monitor school-wide analytics, student interventions, and comprehensive reports
                 </p>
                 <div className="bg-indigo-50 px-6 py-3 rounded-lg">
                   <span className="text-indigo-700 font-semibold">Login as Principal →</span>
@@ -60,7 +60,7 @@ export default function Home() {
 
         <div className="mt-12 text-center">
           <p className="text-gray-500 text-sm">
-            Powered by AI • NEP 2020 Compliant • Holistic Education Dashboard
+            Powered by AI • Holistic Education Dashboard
           </p>
         </div>
       </div>

@@ -60,7 +60,7 @@ export default function PrincipalDashboard() {
         const nepParsed = Papa.parse(nepText, { header: true, dynamicTyping: true });
         setNepMetrics(nepParsed.data.filter((item: any) => item.category));
       } catch (err) {
-        console.error('Error loading NEP data:', err);
+        console.error('Error loading data:', err);
       }
 
       // Load Alerts data
@@ -143,7 +143,7 @@ export default function PrincipalDashboard() {
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-xl font-bold text-gray-800 flex items-center gap-2">
                 <CheckCircle className="h-6 w-6 text-green-600" />
-                NEP 2020 Compliance
+                Performance
               </h2>
               <span className="px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-semibold">
                 {onTrackMetrics.length}/{nepMetrics.length} On Track
@@ -171,7 +171,7 @@ export default function PrincipalDashboard() {
               ))}
             </div>
             {nepMetrics.length === 0 && (
-              <p className="text-center text-gray-500 py-8">No NEP compliance data available</p>
+              <p className="text-center text-gray-500 py-8">No data available</p>
             )}
           </div>
 

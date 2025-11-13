@@ -34,8 +34,8 @@ export default function NEPCompliancePage() {
       </Link>
 
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-800 mb-2">NEP 2020 Compliance Tracking</h1>
-        <p className="text-gray-600">Monitor implementation of National Education Policy 2020</p>
+        <h1 className="text-3xl font-bold text-gray-800 mb-2">Performance Tracking</h1>
+        <p className="text-gray-600">Monitor Performance</p>
       </div>
 
       {/* Summary Cards */}
