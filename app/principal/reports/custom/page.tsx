@@ -8,7 +8,7 @@ import {
   Users,
   GraduationCap,
   BarChart3,
-  DocumentBarChart3
+  ClipboardList
 } from 'lucide-react';
 
 export default function CustomReportsPage() {
