@@ -45,7 +45,6 @@ export default function StudentDetailPage() {
 
       setStudent(mockStudent);
       setLoading(false);
-      success(`Loaded ${mockStudent.name}'s profile`);
     } catch (err) {
       console.error('Error loading student:', err);
       
