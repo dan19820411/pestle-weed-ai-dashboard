@@ -330,12 +330,12 @@ export default function ReportCardGenerator({
       <div className="flex items-center justify-between mb-6">
         <div>
           <h3 className="text-lg font-bold text-gray-900">Report Card Generator</h3>
-          <p className="text-sm text-gray-600 mt-1">
-            {isBulkData 
-              ? `Generate report cards for ${data.length} students`
-              : 'Generate printable report card'
-            }
-          </p>
+			<p className="text-sm text-gray-600 mt-1">
+			  {isBulkData 
+				? `Generate report cards for ${Array.isArray(data) ? data.length : 1} students`
+				: 'Generate printable report card'
+			  }
+			</p>
         </div>
         
         <div className="flex items-center gap-2">
