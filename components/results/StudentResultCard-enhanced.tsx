@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import { 
   GraduationCap, 
   ChevronDown,
-  ChevronUpIcon,
-  ChatBubbleLeftIcon 
+  ChevronUp,
+  MessageCircle 
 } from 'lucide-react';
 
 interface StudentResultCardProps {
@@ -102,11 +102,11 @@ export default function StudentResultCard({ result }: StudentResultCardProps) {
             className="w-full flex items-center justify-between px-4 py-3 bg-gray-50 hover:bg-gray-100 rounded-lg transition mt-2"
           >
             <div className="flex items-center gap-2">
-              <ChatBubbleLeftIcon className="w-5 h-5 text-gray-600" />
+              <MessageCircle className="w-5 h-5 text-gray-600" />
               <span className="text-sm font-medium text-gray-700">Teacher's Remarks</span>
             </div>
             {expanded ? (
-              <ChevronUpIcon className="w-5 h-5 text-gray-600" />
+              <ChevronUp className="w-5 h-5 text-gray-600" />
             ) : (
               <ChevronDown className="w-5 h-5 text-gray-600" />
             )}
