@@ -395,7 +395,7 @@ export default function ReportCardGenerator({
           {generating 
             ? 'Generating...' 
             : isBulkData 
-              ? `Download All (${data.length} Report Cards)` 
+              ? `Download All (${Array.isArray(data) ? data.length : 1} Report Cards)` 
               : 'Download PDF Report Card'
           }
         </button>
