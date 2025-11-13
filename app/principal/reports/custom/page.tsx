@@ -49,7 +49,7 @@ export default function CustomReportsPage() {
     {
       id: 'comprehensive',
       name: 'Comprehensive Report',
-      icon: DocumentBarChart3,
+      icon: ClipboardList,
       description: 'All-inclusive report with attendance, academics, and analytics',
       color: 'indigo'
     }
