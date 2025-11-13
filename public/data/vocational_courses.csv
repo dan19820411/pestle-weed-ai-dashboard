@@ -1,0 +1,21 @@
+courseId,courseName,category,duration,enrolledStudents,instructor,startDate,endDate,skill Level,certificationAvailable,description
+VOC-001,Coding and Programming,Technology,6 months,15,Mr. Kiran Desai,2024-08-01,2025-01-31,Beginner,Yes,Introduction to Python and web development basics
+VOC-002,Digital Marketing,Business,4 months,12,Ms. Vijay Chauhan,2024-09-01,2024-12-31,Intermediate,Yes,Social media marketing and SEO fundamentals
+VOC-003,Graphic Design,Creative Arts,5 months,10,Mrs. Pooja Verma,2024-08-15,2025-01-15,Beginner,Yes,Adobe Photoshop and Illustrator basics
+VOC-004,Basic Electronics,Technology,6 months,14,Dr. Suresh Pillai,2024-08-01,2025-01-31,Beginner,Yes,Circuit design and Arduino programming
+VOC-005,Accounting and Finance,Business,4 months,11,Mr. Ashok Kapoor,2024-09-01,2024-12-31,Intermediate,Yes,Tally ERP and basic accounting principles
+VOC-006,Web Development,Technology,8 months,18,Mr. Kiran Desai,2024-07-01,2025-02-28,Intermediate,Yes,Full-stack web development with React and Node.js
+VOC-007,Photography and Videography,Creative Arts,4 months,9,Mrs. Pooja Verma,2024-09-15,2025-01-15,Beginner,Yes,DSLR camera operation and video editing
+VOC-008,Data Entry and MS Office,Technology,3 months,13,Mr. Kiran Desai,2024-10-01,2024-12-31,Beginner,Yes,Excel advanced features and data management
+VOC-009,Fashion Design,Creative Arts,6 months,8,Ms. Sandeep Chawla,2024-08-01,2025-01-31,Beginner,Yes,Pattern making and garment construction
+VOC-010,Mobile App Development,Technology,7 months,12,Mr. Kiran Desai,2024-07-15,2025-02-15,Intermediate,Yes,Android and iOS app development
+VOC-011,Entrepreneurship Basics,Business,4 months,16,Ms. Vijay Chauhan,2024-09-01,2024-12-31,Beginner,Yes,Business planning and startup fundamentals
+VOC-012,3D Animation,Creative Arts,8 months,7,Mrs. Pooja Verma,2024-07-01,2025-02-28,Advanced,Yes,Blender and Maya for animation
+VOC-013,Spoken English,Language,5 months,20,Mrs. Priya Sharma,2024-08-15,2025-01-15,Beginner,Yes,Conversational English and public speaking
+VOC-014,Robotics,Technology,6 months,11,Dr. Suresh Pillai,2024-08-01,2025-01-31,Intermediate,Yes,Arduino-based robotics projects
+VOC-015,Music Production,Creative Arts,6 months,6,Mr. Ravi Malhotra,2024-08-01,2025-01-31,Beginner,Yes,Digital audio workstation and music composition
+VOC-016,Solar Energy Systems,Technology,4 months,9,Dr. Suresh Pillai,2024-09-01,2024-12-31,Intermediate,Yes,Solar panel installation and maintenance
+VOC-017,Content Writing,Creative Arts,4 months,14,Mrs. Priya Sharma,2024-09-15,2025-01-15,Beginner,Yes,SEO writing and creative content creation
+VOC-018,Artificial Intelligence Basics,Technology,8 months,10,Mr. Kiran Desai,2024-07-01,2025-02-28,Advanced,Yes,Machine learning and AI fundamentals
+VOC-019,Yoga and Wellness,Health,5 months,17,Mr. Vikram Mehta,2024-08-15,2025-01-15,Beginner,Yes,Yoga asanas and meditation techniques
+VOC-020,Organic Farming,Agriculture,6 months,8,Mr. Mohan Rao,2024-08-01,2025-01-31,Beginner,Yes,Sustainable farming practices

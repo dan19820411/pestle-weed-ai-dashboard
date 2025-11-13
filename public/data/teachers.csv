@@ -1,0 +1,21 @@
+id,name,subject,qualification,experience,email,phone,joiningDate,specialization,gradesTaught
+TCH-001,Dr. Rajesh Kumar,Mathematics,PhD Mathematics,15,rajesh.kumar@school.edu,9876501001,2010-06-15,Algebra & Calculus,9-12
+TCH-002,Mrs. Priya Sharma,English,MA English Literature,12,priya.sharma@school.edu,9876501002,2012-08-20,Creative Writing,6-10
+TCH-003,Mr. Amit Patel,Science,MSc Physics,10,amit.patel@school.edu,9876501003,2014-04-10,Experimental Physics,8-10
+TCH-004,Ms. Sunita Singh,Hindi,MA Hindi,8,sunita.singh@school.edu,9876501004,2016-07-01,Hindi Literature,1-8
+TCH-005,Dr. Kavita Reddy,Chemistry,PhD Chemistry,14,kavita.reddy@school.edu,9876501005,2011-09-15,Organic Chemistry,11-12
+TCH-006,Mr. Vikram Mehta,Physical Education,BPEd,11,vikram.mehta@school.edu,9876501006,2013-06-20,Sports Training,1-12
+TCH-007,Mrs. Neha Joshi,Social Studies,MA History,9,neha.joshi@school.edu,9876501007,2015-08-10,Ancient Indian History,6-10
+TCH-008,Mr. Kiran Desai,Computer Science,MTech CSE,7,kiran.desai@school.edu,9876501008,2017-04-05,AI & Machine Learning,9-12
+TCH-009,Ms. Lakshmi Iyer,Biology,MSc Botany,13,lakshmi.iyer@school.edu,9876501009,2012-03-22,Plant Sciences,9-12
+TCH-010,Mr. Mohan Rao,Geography,MA Geography,10,mohan.rao@school.edu,9876501010,2014-11-18,Environmental Studies,6-10
+TCH-011,Mrs. Pooja Verma,Art & Craft,BFA,6,pooja.verma@school.edu,9876501011,2018-07-12,Traditional Art Forms,1-8
+TCH-012,Dr. Suresh Pillai,Physics,PhD Physics,16,suresh.pillai@school.edu,9876501012,2009-08-25,Quantum Mechanics,11-12
+TCH-013,Ms. Ravi Malhotra,Music,MA Music,8,ravi.malhotra@school.edu,9876501013,2016-05-30,Classical Music,1-10
+TCH-014,Mr. Ashok Kapoor,Economics,MA Economics,11,ashok.kapoor@school.edu,9876501014,2013-09-15,Microeconomics,11-12
+TCH-015,Mrs. Deepak Sinha,Sanskrit,MA Sanskrit,9,deepak.sinha@school.edu,9876501015,2015-04-20,Vedic Studies,6-10
+TCH-016,Ms. Sandeep Chawla,Psychology,MSc Psychology,7,sandeep.chawla@school.edu,9876501016,2017-10-08,Child Psychology,11-12
+TCH-017,Mr. Mahesh Bhatt,Political Science,MA Political Science,10,mahesh.bhatt@school.edu,9876501017,2014-06-12,Indian Politics,11-12
+TCH-018,Mrs. Ramesh Dubey,Home Science,MSc Home Science,8,ramesh.dubey@school.edu,9876501018,2016-08-25,Nutrition & Health,9-10
+TCH-019,Dr. Prakash Soni,Biotechnology,PhD Biotechnology,12,prakash.soni@school.edu,9876501019,2012-11-30,Genetic Engineering,11-12
+TCH-020,Ms. Vijay Chauhan,Business Studies,MBA,9,vijay.chauhan@school.edu,9876501020,2015-03-18,Entrepreneurship,11-12

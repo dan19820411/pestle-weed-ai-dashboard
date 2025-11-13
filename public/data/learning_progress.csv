@@ -1,0 +1,65 @@
+studentId,subject,chaptersCompleted,totalChapters,currentTopic,timeSpent,lastAccessed,progressPercent,strengthAreas,improvementAreas
+STU-1-001,Mathematics,8,12,Addition with Carry Over,15.5,2025-01-06,67,Number Recognition|Basic Operations,Problem Solving|Speed
+STU-1-001,English,10,12,Reading Comprehension,12.3,2025-01-05,83,Vocabulary|Pronunciation,Grammar|Writing
+STU-1-001,EVS,7,10,Our Environment,10.2,2025-01-04,70,Observation|General Knowledge,Scientific Reasoning
+STU-1-002,Mathematics,11,12,Subtraction Basics,18.7,2025-01-06,92,Mental Math|Speed,Application Problems
+STU-1-002,English,12,12,Story Writing,15.4,2025-01-06,100,Creative Writing|Reading,Handwriting
+STU-1-002,EVS,9,10,Plants Around Us,12.1,2025-01-05,90,Curiosity|Experiments,Documentation
+STU-1-003,Mathematics,6,12,Number Patterns,11.2,2025-01-05,50,Basic Counting,Logic|Attention Span
+STU-1-004,Mathematics,9,12,Shapes and Patterns,14.8,2025-01-06,75,Geometry|Visual Learning,Abstract Thinking
+STU-1-005,Mathematics,7,12,Counting and Numbers,13.1,2025-01-06,58,Basic Operations,Speed|Accuracy
+STU-2-006,English,10,14,Poetry and Rhymes,16.2,2025-01-06,71,Recitation|Expression,Writing|Spelling
+STU-2-007,English,8,14,Sentence Formation,14.5,2025-01-05,57,Vocabulary,Grammar|Fluency
+STU-2-008,English,13,14,Story Comprehension,19.8,2025-01-06,93,Reading|Understanding,Speed|Expression
+STU-2-009,English,11,14,Letter Writing,17.3,2025-01-06,79,Grammar|Presentation,Creative Ideas
+STU-2-010,English,12,14,Paragraph Writing,18.1,2025-01-06,86,Vocabulary|Structure,Handwriting
+STU-3-011,Science,12,15,Simple Machines,20.5,2025-01-06,80,Practical Knowledge|Experiments,Theory|Documentation
+STU-3-012,Science,10,15,Plants and Animals,18.2,2025-01-05,67,Observation|Classification,Scientific Terminology
+STU-3-013,Science,14,15,Water Cycle,22.8,2025-01-06,93,Understanding|Experiments,Speed
+STU-3-014,Science,8,15,Living and Non-living,16.1,2025-01-04,53,Curiosity,Analysis|Retention
+STU-3-015,Science,11,15,Weather and Seasons,19.4,2025-01-06,73,General Knowledge,Scientific Method
+STU-4-016,Social Studies,13,16,Maps and Directions,21.3,2025-01-06,81,Visual Learning|Memory,Analytical Skills
+STU-4-017,Social Studies,15,16,Indian States,24.6,2025-01-06,94,Memory|General Knowledge,Application
+STU-4-018,Social Studies,11,16,Our Government,19.8,2025-01-05,69,Interest|Questions,Retention
+STU-4-019,Social Studies,9,16,Historical Events,17.4,2025-01-04,56,Curiosity,Memory|Connection
+STU-4-020,Social Studies,14,16,Famous Leaders,22.1,2025-01-06,88,Memory|Presentation,Analysis
+STU-5-021,Hindi,14,18,कहानी लेखन,23.5,2025-01-06,78,Reading|Grammar,Creative Writing
+STU-5-022,Hindi,12,18,व्याकरण,21.2,2025-01-05,67,Rules|Structure,Application
+STU-5-023,Hindi,16,18,कविता,26.4,2025-01-06,89,Expression|Recitation,Meaning
+STU-5-024,Hindi,10,18,संवाद लेखन,19.7,2025-01-04,56,Basic Knowledge,Fluency|Expression
+STU-5-025,Hindi,13,18,निबंध लेखन,22.8,2025-01-06,72,Structure|Ideas,Vocabulary
+STU-6-026,Science,16,20,Electricity Basics,28.5,2025-01-06,80,Practical|Understanding,Theory
+STU-6-027,Science,14,20,Light and Sound,26.2,2025-01-05,70,Experiments|Observation,Scientific Terms
+STU-6-028,Science,18,20,Heat and Energy,31.4,2025-01-06,90,Understanding|Application,Speed
+STU-6-029,Science,13,20,Matter and Materials,25.1,2025-01-04,65,Classification,Analysis
+STU-6-030,Science,15,20,Forces and Motion,27.8,2025-01-06,75,Practical Knowledge,Theory
+STU-7-031,Mathematics,17,22,Algebra Basics,32.5,2025-01-06,77,Problem Solving|Logic,Speed|Complex Problems
+STU-7-032,Mathematics,20,22,Geometry Advanced,36.4,2025-01-06,91,Spatial Reasoning|Accuracy,Application
+STU-7-033,Mathematics,15,22,Fractions and Decimals,30.2,2025-01-05,68,Basic Operations,Word Problems
+STU-7-034,Mathematics,18,22,Ratios and Proportions,33.8,2025-01-06,82,Understanding|Application,Speed
+STU-7-035,Mathematics,19,22,Linear Equations,35.1,2025-01-06,86,Logic|Problem Solving,Complex Scenarios
+STU-8-036,English,18,24,Essay Writing,34.5,2025-01-06,75,Structure|Vocabulary,Creative Ideas
+STU-8-037,English,16,24,Grammar Advanced,32.2,2025-01-05,67,Rules|Structure,Application
+STU-8-038,English,21,24,Literature Analysis,38.4,2025-01-06,88,Comprehension|Analysis,Speed
+STU-8-039,English,15,24,Letter Writing Formal,31.1,2025-01-04,63,Format|Language,Content
+STU-8-040,English,19,24,Poetry Appreciation,35.8,2025-01-06,79,Understanding|Expression,Analysis
+STU-9-041,Science,20,26,Chemical Reactions,42.5,2025-01-06,77,Practical|Understanding,Theory|Equations
+STU-9-042,Science,18,26,Cell Structure,40.2,2025-01-05,69,Observation|Classification,Terminology
+STU-9-043,Science,23,26,Motion and Laws,46.4,2025-01-06,88,Understanding|Application,Complex Problems
+STU-9-044,Science,17,26,Acids and Bases,39.1,2025-01-04,65,Practical Knowledge,Theory
+STU-9-045,Science,21,26,Nutrition and Health,43.8,2025-01-06,81,General Knowledge|Interest,Scientific Details
+STU-10-046,Mathematics,22,28,Quadratic Equations,48.5,2025-01-06,79,Problem Solving|Accuracy,Speed|Complex Applications
+STU-10-047,Mathematics,20,28,Trigonometry Basics,46.2,2025-01-05,71,Understanding|Formulas,Application
+STU-10-048,Mathematics,25,28,Coordinate Geometry,52.4,2025-01-06,89,Logic|Visualization,Speed
+STU-10-049,Mathematics,19,28,Probability,45.1,2025-01-04,68,Basic Concepts,Complex Problems
+STU-10-050,Mathematics,23,28,Statistics,49.8,2025-01-06,82,Analysis|Interpretation,Calculations
+STU-11-051,Physics,24,30,Thermodynamics,54.5,2025-01-06,80,Concepts|Problem Solving,Theory Details
+STU-11-052,Physics,27,30,Wave Optics,58.4,2025-01-06,90,Understanding|Derivations,Speed
+STU-11-053,Physics,21,30,Current Electricity,52.2,2025-01-05,70,Practical|Circuits,Theory
+STU-11-054,Physics,25,30,Electromagnetic Induction,56.8,2025-01-06,83,Concepts|Application,Complex Problems
+STU-11-055,Physics,23,30,Modern Physics,54.1,2025-01-06,77,Interest|Understanding,Numerical Problems
+STU-12-056,Chemistry,26,32,Organic Chemistry,62.5,2025-01-06,81,Reactions|Mechanisms,Nomenclature
+STU-12-057,Chemistry,23,32,Chemical Kinetics,60.2,2025-01-05,72,Concepts|Theory,Calculations
+STU-12-058,Chemistry,29,32,Electrochemistry,66.4,2025-01-06,91,Understanding|Application,Speed
+STU-12-059,Chemistry,24,32,Surface Chemistry,61.1,2025-01-04,75,Theory|Concepts,Application
+STU-12-060,Chemistry,27,32,Coordination Compounds,63.8,2025-01-06,84,Structure|Bonding,Nomenclature

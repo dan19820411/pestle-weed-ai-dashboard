@@ -1,0 +1,61 @@
+studentId,subject,cognitive,creative,emotional,physical,social,overall,proficiencyLevel,quarter,assessmentDate
+STU-1-001,Mathematics,85,78,82,80,88,83,Advanced,Q1,2025-01-15
+STU-1-002,Mathematics,92,88,90,85,95,90,Expert,Q1,2025-01-15
+STU-1-003,Mathematics,76,70,75,78,80,76,Intermediate,Q1,2025-01-15
+STU-1-004,Mathematics,88,82,85,83,90,86,Advanced,Q1,2025-01-15
+STU-1-005,Mathematics,80,75,78,82,85,80,Advanced,Q1,2025-01-15
+STU-2-006,English,86,90,88,82,92,88,Advanced,Q1,2025-01-15
+STU-2-007,English,79,75,80,78,82,79,Intermediate,Q1,2025-01-15
+STU-2-008,English,91,88,92,85,94,90,Expert,Q1,2025-01-15
+STU-2-009,English,84,80,82,83,86,83,Advanced,Q1,2025-01-15
+STU-2-010,English,87,85,88,84,90,87,Advanced,Q1,2025-01-15
+STU-3-011,Science,90,85,88,86,92,88,Advanced,Q1,2025-01-15
+STU-3-012,Science,82,78,80,81,84,81,Advanced,Q1,2025-01-15
+STU-3-013,Science,95,92,93,90,96,93,Expert,Q1,2025-01-15
+STU-3-014,Science,78,74,77,79,80,78,Intermediate,Q1,2025-01-15
+STU-3-015,Science,88,84,86,85,89,86,Advanced,Q1,2025-01-15
+STU-4-016,Social Studies,85,88,83,80,90,85,Advanced,Q1,2025-01-15
+STU-4-017,Social Studies,92,90,91,88,94,91,Expert,Q1,2025-01-15
+STU-4-018,Social Studies,80,76,78,82,83,80,Advanced,Q1,2025-01-15
+STU-4-019,Social Studies,77,73,75,80,79,77,Intermediate,Q1,2025-01-15
+STU-4-020,Social Studies,89,86,88,84,91,88,Advanced,Q1,2025-01-15
+STU-5-021,Hindi,88,85,87,83,90,87,Advanced,Q1,2025-01-15
+STU-5-022,Hindi,83,80,82,84,86,83,Advanced,Q1,2025-01-15
+STU-5-023,Hindi,94,91,93,89,95,92,Expert,Q1,2025-01-15
+STU-5-024,Hindi,79,75,78,81,82,79,Intermediate,Q1,2025-01-15
+STU-5-025,Hindi,86,83,85,82,88,85,Advanced,Q1,2025-01-15
+STU-6-026,Science,90,87,89,85,92,89,Advanced,Q1,2025-01-15
+STU-6-027,Science,85,82,84,86,88,85,Advanced,Q1,2025-01-15
+STU-6-028,Science,93,90,92,88,95,92,Expert,Q1,2025-01-15
+STU-6-029,Science,81,78,80,83,84,81,Advanced,Q1,2025-01-15
+STU-6-030,Science,87,84,86,85,89,86,Advanced,Q1,2025-01-15
+STU-7-031,Mathematics,89,85,88,84,91,87,Advanced,Q1,2025-01-15
+STU-7-032,Mathematics,94,91,93,90,96,93,Expert,Q1,2025-01-15
+STU-7-033,Mathematics,82,79,81,83,85,82,Advanced,Q1,2025-01-15
+STU-7-034,Mathematics,86,83,85,84,88,85,Advanced,Q1,2025-01-15
+STU-7-035,Mathematics,91,88,90,87,93,90,Expert,Q1,2025-01-15
+STU-8-036,English,87,90,88,83,91,88,Advanced,Q1,2025-01-15
+STU-8-037,English,83,80,82,84,86,83,Advanced,Q1,2025-01-15
+STU-8-038,English,92,89,91,88,94,91,Expert,Q1,2025-01-15
+STU-8-039,English,80,77,79,82,83,80,Advanced,Q1,2025-01-15
+STU-8-040,English,88,85,87,86,90,87,Advanced,Q1,2025-01-15
+STU-9-041,Science,91,88,90,87,93,90,Expert,Q1,2025-01-15
+STU-9-042,Science,86,83,85,84,88,85,Advanced,Q1,2025-01-15
+STU-9-043,Science,93,90,92,89,95,92,Expert,Q1,2025-01-15
+STU-9-044,Science,82,79,81,83,85,82,Advanced,Q1,2025-01-15
+STU-9-045,Science,88,85,87,86,90,87,Advanced,Q1,2025-01-15
+STU-10-046,Mathematics,90,87,89,86,92,89,Advanced,Q1,2025-01-15
+STU-10-047,Mathematics,85,82,84,83,87,84,Advanced,Q1,2025-01-15
+STU-10-048,Mathematics,94,91,93,90,96,93,Expert,Q1,2025-01-15
+STU-10-049,Mathematics,81,78,80,82,84,81,Advanced,Q1,2025-01-15
+STU-10-050,Mathematics,87,84,86,85,89,86,Advanced,Q1,2025-01-15
+STU-11-051,Physics,89,86,88,85,91,88,Advanced,Q1,2025-01-15
+STU-11-052,Physics,95,92,94,91,96,94,Expert,Q1,2025-01-15
+STU-11-053,Physics,83,80,82,84,86,83,Advanced,Q1,2025-01-15
+STU-11-054,Physics,91,88,90,87,93,90,Expert,Q1,2025-01-15
+STU-11-055,Physics,86,83,85,84,88,85,Advanced,Q1,2025-01-15
+STU-12-056,Chemistry,92,89,91,88,94,91,Expert,Q1,2025-01-15
+STU-12-057,Chemistry,84,81,83,85,87,84,Advanced,Q1,2025-01-15
+STU-12-058,Chemistry,96,93,95,92,97,95,Expert,Q1,2025-01-15
+STU-12-059,Chemistry,87,84,86,85,89,86,Advanced,Q1,2025-01-15
+STU-12-060,Chemistry,90,87,89,88,92,89,Advanced,Q1,2025-01-15

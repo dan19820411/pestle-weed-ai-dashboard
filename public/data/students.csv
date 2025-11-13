@@ -1,0 +1,61 @@
+id,name,grade,section,rollNo,gender,dob,parentName,parentContact,parentEmail,address,admissionDate,bloodGroup
+STU-1-001,Aarav Sharma,1,A,101,Male,2018-04-15,Rajesh Sharma,9876543210,rajesh.sharma@email.com,"123 MG Road, Delhi",2024-04-01,A+
+STU-1-002,Ananya Gupta,1,A,102,Female,2018-06-20,Priya Gupta,9876543211,priya.gupta@email.com,"45 Park Street, Mumbai",2024-04-01,B+
+STU-1-003,Arjun Patel,1,A,103,Male,2018-03-10,Amit Patel,9876543212,amit.patel@email.com,"78 Ring Road, Ahmedabad",2024-04-01,O+
+STU-1-004,Diya Singh,1,A,104,Female,2018-07-25,Sunita Singh,9876543213,sunita.singh@email.com,"56 Lake View, Bangalore",2024-04-01,AB+
+STU-1-005,Ishaan Kumar,1,A,105,Male,2018-05-30,Rakesh Kumar,9876543214,rakesh.kumar@email.com,"90 Hill Street, Pune",2024-04-01,A+
+STU-2-006,Kavya Reddy,2,A,201,Female,2017-08-12,Lakshmi Reddy,9876543215,lakshmi.reddy@email.com,"12 Tank Road, Hyderabad",2023-04-01,B+
+STU-2-007,Rohan Mehta,2,A,202,Male,2017-09-18,Vijay Mehta,9876543216,vijay.mehta@email.com,"34 Beach Road, Chennai",2023-04-01,O+
+STU-2-008,Saanvi Joshi,2,A,203,Female,2017-04-22,Neha Joshi,9876543217,neha.joshi@email.com,"67 Garden Street, Kolkata",2023-04-01,A+
+STU-2-009,Vihaan Desai,2,A,204,Male,2017-11-05,Kiran Desai,9876543218,kiran.desai@email.com,"89 New Colony, Jaipur",2023-04-01,AB+
+STU-2-010,Aanya Nair,2,A,205,Female,2017-06-14,Rahul Nair,9876543219,rahul.nair@email.com,"23 Green Park, Kochi",2023-04-01,B+
+STU-3-011,Advait Iyer,3,A,301,Male,2016-10-08,Sanjay Iyer,9876543220,sanjay.iyer@email.com,"45 Civil Lines, Lucknow",2022-04-01,O+
+STU-3-012,Kiara Verma,3,A,302,Female,2016-12-20,Pooja Verma,9876543221,pooja.verma@email.com,"78 Model Town, Chandigarh",2022-04-01,A+
+STU-3-013,Reyansh Rao,3,A,303,Male,2016-07-15,Mohan Rao,9876543222,mohan.rao@email.com,"90 Lake Road, Bhopal",2022-04-01,B+
+STU-3-014,Myra Pillai,3,A,304,Female,2016-09-30,Suresh Pillai,9876543223,suresh.pillai@email.com,"12 Fort Area, Trivandrum",2022-04-01,AB+
+STU-3-015,Arnav Bose,3,A,305,Male,2016-05-18,Tapan Bose,9876543224,tapan.bose@email.com,"34 Salt Lake, Kolkata",2022-04-01,O+
+STU-4-016,Ira Kapoor,4,A,401,Female,2015-11-22,Ashok Kapoor,9876543225,ashok.kapoor@email.com,"56 Connaught Place, Delhi",2021-04-01,A+
+STU-4-017,Kabir Malhotra,4,A,402,Male,2015-08-10,Ravi Malhotra,9876543226,ravi.malhotra@email.com,"78 Marine Drive, Mumbai",2021-04-01,B+
+STU-4-018,Zara Khan,4,A,403,Female,2015-04-28,Imran Khan,9876543227,imran.khan@email.com,"90 Civil Lines, Lucknow",2021-04-01,O+
+STU-4-019,Ayaan Sheikh,4,A,404,Male,2015-12-05,Farhan Sheikh,9876543228,farhan.sheikh@email.com,"12 Anna Nagar, Chennai",2021-04-01,AB+
+STU-4-020,Pari Das,4,A,405,Female,2015-06-17,Subhash Das,9876543229,subhash.das@email.com,"34 Park Circus, Kolkata",2021-04-01,A+
+STU-5-021,Vivaan Agarwal,5,A,501,Male,2014-10-12,Manoj Agarwal,9876543230,manoj.agarwal@email.com,"56 Satellite, Ahmedabad",2020-04-01,B+
+STU-5-022,Aisha Sinha,5,A,502,Female,2014-07-25,Deepak Sinha,9876543231,deepak.sinha@email.com,"78 Boring Road, Patna",2020-04-01,O+
+STU-5-023,Dhruv Saxena,5,A,503,Male,2014-09-08,Rajat Saxena,9876543232,rajat.saxena@email.com,"90 Gomti Nagar, Lucknow",2020-04-01,A+
+STU-5-024,Mira Chawla,5,A,504,Female,2014-11-30,Sandeep Chawla,9876543233,sandeep.chawla@email.com,"12 Sector 17, Chandigarh",2020-04-01,AB+
+STU-5-025,Atharv Pandey,5,A,505,Male,2014-05-22,Vijay Pandey,9876543234,vijay.pandey@email.com,"34 Arera Colony, Bhopal",2020-04-01,B+
+STU-6-026,Navya Menon,6,A,601,Female,2013-08-15,Krishna Menon,9876543235,krishna.menon@email.com,"56 Palarivattom, Kochi",2019-04-01,O+
+STU-6-027,Shaurya Bhatt,6,A,602,Male,2013-06-20,Mahesh Bhatt,9876543236,mahesh.bhatt@email.com,"78 Vastrapur, Ahmedabad",2019-04-01,A+
+STU-6-028,Anaya Dubey,6,A,603,Female,2013-10-05,Ramesh Dubey,9876543237,ramesh.dubey@email.com,"90 Alambagh, Lucknow",2019-04-01,B+
+STU-6-029,Aditya Khanna,6,A,604,Male,2013-04-18,Sunil Khanna,9876543238,sunil.khanna@email.com,"12 South Extension, Delhi",2019-04-01,AB+
+STU-6-030,Siya Bansal,6,A,605,Female,2013-12-28,Amit Bansal,9876543239,amit.bansal@email.com,"34 Bandra West, Mumbai",2019-04-01,O+
+STU-7-031,Aryan Jain,7,A,701,Male,2012-07-14,Rajesh Jain,9876543240,rajesh.jain@email.com,"56 C Scheme, Jaipur",2018-04-01,A+
+STU-7-032,Riya Bhardwaj,7,A,702,Female,2012-09-22,Deepak Bhardwaj,9876543241,deepak.bhardwaj@email.com,"78 Pitampura, Delhi",2018-04-01,B+
+STU-7-033,Kian Oberoi,7,A,703,Male,2012-05-30,Ravi Oberoi,9876543242,ravi.oberoi@email.com,"90 Juhu, Mumbai",2018-04-01,O+
+STU-7-034,Aadhya Soni,7,A,704,Female,2012-11-08,Prakash Soni,9876543243,prakash.soni@email.com,"12 Satellite Road, Ahmedabad",2018-04-01,AB+
+STU-7-035,Rudra Chauhan,7,A,705,Male,2012-03-16,Vijay Chauhan,9876543244,vijay.chauhan@email.com,"34 Indira Nagar, Lucknow",2018-04-01,A+
+STU-8-036,Avni Rawat,8,A,801,Female,2011-10-20,Mohan Rawat,9876543245,mohan.rawat@email.com,"56 Rajendra Nagar, Dehradun",2017-04-01,B+
+STU-8-037,Yash Rathore,8,A,802,Male,2011-06-12,Suresh Rathore,9876543246,suresh.rathore@email.com,"78 MI Road, Jaipur",2017-04-01,O+
+STU-8-038,Nitya Chopra,8,A,803,Female,2011-08-28,Rakesh Chopra,9876543247,rakesh.chopra@email.com,"90 Sector 22, Chandigarh",2017-04-01,A+
+STU-8-039,Arush Gill,8,A,804,Male,2011-12-05,Harpreet Gill,9876543248,harpreet.gill@email.com,"12 Mall Road, Amritsar",2017-04-01,AB+
+STU-8-040,Prisha Arora,8,A,805,Female,2011-04-22,Ashish Arora,9876543249,ashish.arora@email.com,"34 Lajpat Nagar, Delhi",2017-04-01,B+
+STU-9-041,Veer Thakur,9,A,901,Male,2010-09-15,Dinesh Thakur,9876543250,dinesh.thakur@email.com,"56 Paldi, Ahmedabad",2016-04-01,O+
+STU-9-042,Suhana Mallik,9,A,902,Female,2010-07-28,Pritam Mallik,9876543251,pritam.mallik@email.com,"78 Ballygunge, Kolkata",2016-04-01,A+
+STU-9-043,Advika Sethi,9,A,903,Female,2010-11-10,Rajiv Sethi,9876543252,rajiv.sethi@email.com,"90 Defence Colony, Delhi",2016-04-01,B+
+STU-9-044,Shivansh Mishra,9,A,904,Male,2010-05-20,Anand Mishra,9876543253,anand.mishra@email.com,"12 Hazratganj, Lucknow",2016-04-01,AB+
+STU-9-045,Tara Chatterjee,9,A,905,Female,2010-08-03,Sanjay Chatterjee,9876543254,sanjay.chatterjee@email.com,"34 Park Street, Kolkata",2016-04-01,O+
+STU-10-046,Ayush Bhatia,10,A,1001,Male,2009-10-25,Ramesh Bhatia,9876543255,ramesh.bhatia@email.com,"56 Vasant Vihar, Delhi",2015-04-01,A+
+STU-10-047,Shanaya Pillai,10,A,1002,Female,2009-06-18,Kumar Pillai,9876543256,kumar.pillai@email.com,"78 Indiranagar, Bangalore",2015-04-01,B+
+STU-10-048,Krish Ahuja,10,A,1003,Male,2009-09-30,Tarun Ahuja,9876543257,tarun.ahuja@email.com,"90 Khar, Mumbai",2015-04-01,O+
+STU-10-049,Myra Shah,10,A,1004,Female,2009-04-12,Nishant Shah,9876543258,nishant.shah@email.com,"12 Bodakdev, Ahmedabad",2015-04-01,AB+
+STU-10-050,Raghav Banerjee,10,A,1005,Male,2009-12-22,Dipak Banerjee,9876543259,dipak.banerjee@email.com,"34 Howrah, Kolkata",2015-04-01,A+
+STU-11-051,Ishita Kapoor,11,A,1101,Female,2008-08-08,Manish Kapoor,9876543260,manish.kapoor@email.com,"56 Greater Kailash, Delhi",2014-04-01,B+
+STU-11-052,Aarav Nanda,11,A,1102,Male,2008-07-15,Vikas Nanda,9876543261,vikas.nanda@email.com,"78 Andheri, Mumbai",2014-04-01,O+
+STU-11-053,Kiara Singhal,11,A,1103,Female,2008-11-20,Ajay Singhal,9876543262,ajay.singhal@email.com,"90 Rajouri Garden, Delhi",2014-04-01,A+
+STU-11-054,Vivaan Tiwari,11,A,1104,Male,2008-05-28,Pradeep Tiwari,9876543263,pradeep.tiwari@email.com,"12 Gomti Nagar, Lucknow",2014-04-01,AB+
+STU-11-055,Saanvi Basu,11,A,1105,Female,2008-09-12,Amit Basu,9876543264,amit.basu@email.com,"34 Salt Lake, Kolkata",2014-04-01,B+
+STU-12-056,Arjun Goyal,12,A,1201,Male,2007-10-18,Sunil Goyal,9876543265,sunil.goyal@email.com,"56 Model Town, Delhi",2013-04-01,O+
+STU-12-057,Ananya Dutta,12,A,1202,Female,2007-06-25,Biswajit Dutta,9876543266,biswajit.dutta@email.com,"78 Shyambazar, Kolkata",2013-04-01,A+
+STU-12-058,Reyansh Kaul,12,A,1203,Male,2007-09-05,Rohit Kaul,9876543267,rohit.kaul@email.com,"90 Vasant Kunj, Delhi",2013-04-01,B+
+STU-12-059,Diya Chatterjee,12,A,1204,Female,2007-04-30,Sourav Chatterjee,9876543268,sourav.chatterjee@email.com,"12 Ballygunge, Kolkata",2013-04-01,AB+
+STU-12-060,Kabir Srivastava,12,A,1205,Male,2007-12-10,Anil Srivastava,9876543269,anil.srivastava@email.com,"34 Gomti Nagar, Lucknow",2013-04-01,O+

@@ -1,0 +1,21 @@
+alertId,studentId,studentName,grade,alertType,severity,description,recommendedAction,createdDate,status,assignedTo
+ALT-001,STU-1-003,Arjun Patel,1,Attendance,High,Absent for 3 consecutive days,Contact parents immediately and arrange counseling,2025-01-06,Open,Mrs. Sunita Singh
+ALT-002,STU-3-014,Myra Pillai,3,Academic,Medium,Science scores dropping - 78% to 53%,Schedule remedial classes and parental meeting,2025-01-05,Open,Mr. Amit Patel
+ALT-003,STU-4-019,Ayaan Sheikh,4,Attendance,Medium,Late arrivals 5 times this month,Discuss transport issues with parents,2025-01-04,In Progress,Mrs. Neha Joshi
+ALT-004,STU-5-025,Atharv Pandey,5,Attendance,High,Absent 4 times in 2 weeks,Medical check-up and home visit recommended,2025-01-06,Open,Mrs. Neha Joshi
+ALT-005,STU-7-033,Kian Oberoi,7,Attendance,Low,Sports competition participation,Monitor to ensure academic balance,2025-01-06,Monitoring,Mr. Vikram Mehta
+ALT-006,STU-8-039,Arush Gill,8,Attendance,Medium,Transport issues causing delays,Arrange school bus or carpool,2025-01-05,In Progress,Mrs. Neha Joshi
+ALT-007,STU-10-047,Shanaya Pillai,10,Attendance,Medium,Health-related absence,Follow up on health status,2025-01-06,Open,Mrs. Ramesh Dubey
+ALT-008,STU-11-053,Kiara Singhal,11,Academic,Medium,Physics performance needs improvement - 83%,Additional tutoring and practice sessions,2025-01-04,Open,Dr. Suresh Pillai
+ALT-009,STU-12-057,Ananya Dutta,12,Academic,Medium,Chemistry scores below expected - 84%,Board exam preparation support needed,2025-01-03,In Progress,Dr. Kavita Reddy
+ALT-010,STU-2-007,Rohan Mehta,2,Behavioral,Low,Late arrivals but good academic performance,Gentle reminder to parents,2025-01-05,Resolved,Mrs. Priya Sharma
+ALT-011,STU-9-044,Shivansh Mishra,9,Academic,High,Multiple subjects showing decline,Comprehensive intervention plan needed,2025-01-02,Open,Dr. Rajesh Kumar
+ALT-012,STU-6-029,Aditya Khanna,6,Engagement,Medium,Reduced participation in class activities,Counseling session recommended,2025-01-03,Open,Ms. Sandeep Chawla
+ALT-013,STU-7-031,Aryan Jain,7,Academic,Low,Excellent progress - recognition needed,Award certificate in assembly,2025-01-04,Completed,Dr. Rajesh Kumar
+ALT-014,STU-8-038,Nitya Chopra,8,Academic,Low,Outstanding English performance - 91%,Consider for essay competition,2025-01-05,Completed,Mrs. Priya Sharma
+ALT-015,STU-9-043,Advika Sethi,9,Academic,Low,Consistent excellent performance - 92%,Recommend for advanced classes,2025-01-06,Completed,Mr. Amit Patel
+ALT-016,STU-10-048,Krish Ahuja,10,Academic,Low,Top performer in board prep - 93%,Peer tutoring opportunity,2025-01-05,Completed,Dr. Rajesh Kumar
+ALT-017,STU-11-052,Aarav Nanda,11,Academic,Low,Physics excellence - 94%,Science olympiad candidate,2025-01-04,Open,Dr. Suresh Pillai
+ALT-018,STU-12-058,Reyansh Kaul,12,Academic,Low,Chemistry topper - 95%,Research project opportunity,2025-01-03,Open,Dr. Kavita Reddy
+ALT-019,STU-5-023,Dhruv Saxena,5,Engagement,Medium,Very quiet in class discussions,Build confidence through activities,2025-01-02,In Progress,Ms. Lakshmi Iyer
+ALT-020,STU-6-028,Anaya Dubey,6,Academic,Low,Science star - 92%,Consider for science club leadership,2025-01-05,Completed,Ms. Lakshmi Iyer

@@ -1,0 +1,361 @@
+studentId,studentName,month,year,overall_percentage,attendance,discipline_score,participation_score,teacher_comments
+S001,Rudra Singh,June,2024,69.3,95.3,5.0,3.9,"Average performance, can improve"
+S001,Rudra Singh,July,2024,74.3,88.6,4.5,4.4,"Satisfactory, requires more effort"
+S001,Rudra Singh,August,2024,76.3,91.3,4.9,4.1,Maintains good academic standards
+S001,Rudra Singh,September,2024,73.4,89.6,4.9,4.2,"Satisfactory, requires more effort"
+S001,Rudra Singh,October,2024,76.6,96.3,4.7,4.5,Showing steady improvement
+S001,Rudra Singh,November,2024,78.6,83.4,4.5,4.0,Showing steady improvement
+S002,Aadhya Saxena,June,2024,88.5,87.3,4.3,5.0,Excellent work ethic and dedication
+S002,Aadhya Saxena,July,2024,89.5,92.2,4.7,5.0,"Exceptional student, consistently performs well"
+S002,Aadhya Saxena,August,2024,94.1,97.1,4.3,5.0,"Exceptional student, consistently performs well"
+S002,Aadhya Saxena,September,2024,93.8,86.6,4.1,5.0,Brilliant performance in all subjects
+S002,Aadhya Saxena,October,2024,98,95.0,4.4,4.7,Brilliant performance in all subjects
+S002,Aadhya Saxena,November,2024,98,85.0,4.2,4.8,Outstanding progress throughout the month
+S003,Ishaan Nair,June,2024,67.7,88.7,4.4,4.9,"Has potential, needs to work harder"
+S003,Ishaan Nair,July,2024,63.6,87.7,4.3,5.0,Must focus on weak areas
+S003,Ishaan Nair,August,2024,66.4,85.0,4.1,4.5,"Has potential, needs to work harder"
+S003,Ishaan Nair,September,2024,71.4,96.9,4.1,4.6,"Has potential, needs to work harder"
+S003,Ishaan Nair,October,2024,73.7,87.7,4.1,4.9,Needs to focus more in class
+S003,Ishaan Nair,November,2024,75.1,94.0,4.2,4.9,Maintains good academic standards
+S004,Sara Verma,June,2024,93.9,88.8,4.3,4.5,Outstanding progress throughout the month
+S004,Sara Verma,July,2024,92.4,93.1,4.3,4.8,"Exceptional student, consistently performs well"
+S004,Sara Verma,August,2024,94.4,87.5,4.1,4.9,Brilliant performance in all subjects
+S004,Sara Verma,September,2024,96.4,86.0,4.4,4.5,Outstanding progress throughout the month
+S004,Sara Verma,October,2024,98,94.5,4.3,4.5,"Model student, highly recommended"
+S004,Sara Verma,November,2024,98,95.8,4.1,4.7,"Model student, highly recommended"
+S005,Ved Singh,June,2024,83.8,90.9,4.6,4.4,Good progress this month
+S005,Ved Singh,July,2024,82.4,87.9,4.7,3.9,Showing steady improvement
+S005,Ved Singh,August,2024,84.1,95.8,4.5,4.0,Showing steady improvement
+S005,Ved Singh,September,2024,89.2,84.3,4.7,4.3,"Exceptional student, consistently performs well"
+S005,Ved Singh,October,2024,85.3,89.0,4.7,4.4,Outstanding progress throughout the month
+S005,Ved Singh,November,2024,87.0,92.9,4.3,4.0,"Exceptional student, consistently performs well"
+S006,Shreya Saxena,June,2024,80.3,97.9,4.1,4.2,Maintains good academic standards
+S006,Shreya Saxena,July,2024,79.7,87.8,4.3,4.2,Maintains good academic standards
+S006,Shreya Saxena,August,2024,78.9,92.2,4.5,4.0,"Consistent performance, well done"
+S006,Shreya Saxena,September,2024,78.4,96.3,3.9,4.0,"Consistent performance, well done"
+S006,Shreya Saxena,October,2024,78.9,90.8,3.9,3.8,"Consistent performance, well done"
+S006,Shreya Saxena,November,2024,78.4,90.4,4.1,4.3,"Consistent performance, well done"
+S007,Kian Bansal,June,2024,89.5,88.2,4.3,4.5,Excellent work ethic and dedication
+S007,Kian Bansal,July,2024,89.1,87.7,4.4,4.5,Outstanding progress throughout the month
+S007,Kian Bansal,August,2024,87.6,89.5,4.7,4.4,"Exceptional student, consistently performs well"
+S007,Kian Bansal,September,2024,86.1,94.5,4.6,4.2,Excellent work ethic and dedication
+S007,Kian Bansal,October,2024,87.3,86.1,4.9,4.6,Outstanding progress throughout the month
+S007,Kian Bansal,November,2024,88.2,84.6,4.8,4.5,Excellent work ethic and dedication
+S008,Diya Sinha,June,2024,69.2,88.7,4.9,4.3,"Average performance, can improve"
+S008,Diya Sinha,July,2024,73.6,86.5,4.7,3.8,"Satisfactory, requires more effort"
+S008,Diya Sinha,August,2024,70.9,94.1,4.7,3.9,Should participate more actively
+S008,Diya Sinha,September,2024,75.0,87.0,5.0,3.7,Maintains good academic standards
+S008,Diya Sinha,October,2024,79.0,90.2,4.8,3.8,Active participation in class
+S008,Diya Sinha,November,2024,77.0,96.8,5.0,4.0,Good progress this month
+S009,Dhruv Gupta,June,2024,80.7,90.8,4.1,4.3,Active participation in class
+S009,Dhruv Gupta,July,2024,78.0,87.6,4.1,4.5,Good progress this month
+S009,Dhruv Gupta,August,2024,79.4,94.8,4.1,4.4,"Consistent performance, well done"
+S009,Dhruv Gupta,September,2024,78.8,89.6,4.4,4.4,Showing steady improvement
+S009,Dhruv Gupta,October,2024,78.2,91.9,4.5,4.8,Good progress this month
+S009,Dhruv Gupta,November,2024,73.6,97.7,4.5,4.5,Needs to focus more in class
+S010,Aadhya Kumar,June,2024,84.0,92.8,4.8,3.8,Maintains good academic standards
+S010,Aadhya Kumar,July,2024,84.8,92.3,4.9,4.0,Showing steady improvement
+S010,Aadhya Kumar,August,2024,85.3,96.6,4.8,4.0,"Exceptional student, consistently performs well"
+S010,Aadhya Kumar,September,2024,90.3,94.1,5.0,4.0,Excellent work ethic and dedication
+S010,Aadhya Kumar,October,2024,87.0,87.1,5.0,4.0,Excellent work ethic and dedication
+S010,Aadhya Kumar,November,2024,91.3,94.1,4.7,4.1,Brilliant performance in all subjects
+S011,Ayaan Nair,June,2024,82.6,90.0,4.4,4.7,Active participation in class
+S011,Ayaan Nair,July,2024,80.3,93.7,4.5,4.9,Showing steady improvement
+S011,Ayaan Nair,August,2024,83.2,92.3,4.6,4.6,Active participation in class
+S011,Ayaan Nair,September,2024,86.0,95.5,4.7,4.7,"Model student, highly recommended"
+S011,Ayaan Nair,October,2024,85.0,97.8,4.5,4.5,"Model student, highly recommended"
+S011,Ayaan Nair,November,2024,88.1,94.6,4.6,4.6,Excellent work ethic and dedication
+S012,Zara Mishra,June,2024,81.8,87.8,5.0,5.0,Active participation in class
+S012,Zara Mishra,July,2024,82.3,96.8,4.7,4.9,Showing steady improvement
+S012,Zara Mishra,August,2024,83.0,96.1,5.0,5.0,Good progress this month
+S012,Zara Mishra,September,2024,83.4,89.0,5.0,4.7,Showing steady improvement
+S012,Zara Mishra,October,2024,78.9,94.2,5.0,5.0,Good progress this month
+S012,Zara Mishra,November,2024,80.2,98.5,4.9,5.0,Maintains good academic standards
+S013,Aarav Bansal,June,2024,88.4,92.6,4.2,4.9,"Exceptional student, consistently performs well"
+S013,Aarav Bansal,July,2024,91.7,95.9,4.3,4.8,"Model student, highly recommended"
+S013,Aarav Bansal,August,2024,88.3,88.0,4.3,4.7,"Model student, highly recommended"
+S013,Aarav Bansal,September,2024,93.0,94.0,4.2,5.0,"Model student, highly recommended"
+S013,Aarav Bansal,October,2024,93.7,85.9,4.1,4.9,Excellent work ethic and dedication
+S013,Aarav Bansal,November,2024,93.7,84.6,4.3,4.7,Outstanding progress throughout the month
+S014,Saanvi Dubey,June,2024,74.7,87.1,4.1,4.0,"Has potential, needs to work harder"
+S014,Saanvi Dubey,July,2024,75.5,95.1,4.0,4.1,"Consistent performance, well done"
+S014,Saanvi Dubey,August,2024,77.5,83.6,4.0,4.0,Showing steady improvement
+S014,Saanvi Dubey,September,2024,79.4,87.6,4.1,4.1,Showing steady improvement
+S014,Saanvi Dubey,October,2024,86.0,93.6,4.3,4.5,"Exceptional student, consistently performs well"
+S014,Saanvi Dubey,November,2024,88.1,97.1,4.0,3.9,Brilliant performance in all subjects
+S015,Rudra Dubey,June,2024,81.5,86.4,4.6,4.1,"Consistent performance, well done"
+S015,Rudra Dubey,July,2024,82.3,95.6,4.3,4.0,Maintains good academic standards
+S015,Rudra Dubey,August,2024,78.2,91.3,4.4,4.0,Showing steady improvement
+S015,Rudra Dubey,September,2024,83.5,88.7,4.6,4.1,Maintains good academic standards
+S015,Rudra Dubey,October,2024,82.6,92.7,4.1,4.1,Maintains good academic standards
+S015,Rudra Dubey,November,2024,80.6,91.0,4.2,4.1,Active participation in class
+S016,Kiara Malhotra,June,2024,93.7,88.8,4.3,4.3,"Model student, highly recommended"
+S016,Kiara Malhotra,July,2024,93.1,96.2,4.6,4.0,"Exceptional student, consistently performs well"
+S016,Kiara Malhotra,August,2024,98,91.6,4.5,4.4,Outstanding progress throughout the month
+S016,Kiara Malhotra,September,2024,98,97.5,4.1,4.1,"Exceptional student, consistently performs well"
+S016,Kiara Malhotra,October,2024,98,90.9,4.4,4.3,Outstanding progress throughout the month
+S016,Kiara Malhotra,November,2024,98,94.9,4.4,4.3,Outstanding progress throughout the month
+S017,Krishna Chopra,June,2024,66.6,93.1,4.1,4.5,"Has potential, needs to work harder"
+S017,Krishna Chopra,July,2024,68.9,95.9,3.9,4.5,Needs to focus more in class
+S017,Krishna Chopra,August,2024,67.6,86.1,4.4,4.5,"Average performance, can improve"
+S017,Krishna Chopra,September,2024,72.3,92.3,3.9,4.4,Should participate more actively
+S017,Krishna Chopra,October,2024,68.4,91.6,3.9,4.4,"Has potential, needs to work harder"
+S017,Krishna Chopra,November,2024,69.1,93.8,4.3,4.6,Needs to focus more in class
+S018,Avni Iyer,June,2024,93.1,86.1,4.7,4.9,Excellent work ethic and dedication
+S018,Avni Iyer,July,2024,97.6,93.9,4.8,4.9,Brilliant performance in all subjects
+S018,Avni Iyer,August,2024,98,92.3,4.4,5.0,Outstanding progress throughout the month
+S018,Avni Iyer,September,2024,98,88.3,4.7,4.7,"Model student, highly recommended"
+S018,Avni Iyer,October,2024,98,94.7,4.4,5.0,Brilliant performance in all subjects
+S018,Avni Iyer,November,2024,98,87.4,4.8,4.8,Excellent work ethic and dedication
+S019,Aayan Bhat,June,2024,63.5,94.9,4.5,5.0,Parent meeting recommended
+S019,Aayan Bhat,July,2024,66.9,90.0,4.7,4.6,Needs to focus more in class
+S019,Aayan Bhat,August,2024,65.4,85.0,4.6,4.7,"Satisfactory, requires more effort"
+S019,Aayan Bhat,September,2024,66.2,84.7,4.6,4.7,"Has potential, needs to work harder"
+S019,Aayan Bhat,October,2024,64.6,86.0,4.3,4.6,Needs significant improvement
+S019,Aayan Bhat,November,2024,67.5,95.8,4.6,4.6,"Has potential, needs to work harder"
+S020,Aadhya Jain,June,2024,93.3,95.9,4.6,4.4,"Exceptional student, consistently performs well"
+S020,Aadhya Jain,July,2024,94.5,87.2,4.5,4.4,Excellent work ethic and dedication
+S020,Aadhya Jain,August,2024,90.8,85.2,4.3,4.4,Outstanding progress throughout the month
+S020,Aadhya Jain,September,2024,94.3,92.0,4.4,4.2,Brilliant performance in all subjects
+S020,Aadhya Jain,October,2024,93.8,87.8,4.4,4.2,"Model student, highly recommended"
+S020,Aadhya Jain,November,2024,92.2,91.3,4.6,4.5,"Exceptional student, consistently performs well"
+S021,Aayan Patel,June,2024,80.9,95.3,4.7,4.6,Good progress this month
+S021,Aayan Patel,July,2024,83.3,95.7,4.9,4.4,"Consistent performance, well done"
+S021,Aayan Patel,August,2024,82.3,89.6,4.7,4.4,Maintains good academic standards
+S021,Aayan Patel,September,2024,81.8,90.5,4.9,4.4,Showing steady improvement
+S021,Aayan Patel,October,2024,83.8,92.1,4.5,4.1,"Consistent performance, well done"
+S021,Aayan Patel,November,2024,80.5,94.0,4.8,4.4,Active participation in class
+S022,Aisha Malhotra,June,2024,77.4,92.8,4.7,4.7,Showing steady improvement
+S022,Aisha Malhotra,July,2024,81.0,89.2,4.7,4.8,Showing steady improvement
+S022,Aisha Malhotra,August,2024,77.6,87.2,4.7,4.9,Showing steady improvement
+S022,Aisha Malhotra,September,2024,74.9,93.7,4.5,4.8,"Satisfactory, requires more effort"
+S022,Aisha Malhotra,October,2024,79.5,96.8,4.6,4.6,Maintains good academic standards
+S022,Aisha Malhotra,November,2024,79.2,97.0,4.6,4.4,Good progress this month
+S023,Atharva Iyer,June,2024,78.4,95.4,3.7,4.3,"Consistent performance, well done"
+S023,Atharva Iyer,July,2024,78.5,92.1,4.2,4.7,"Consistent performance, well done"
+S023,Atharva Iyer,August,2024,76.2,90.0,4.0,4.6,Active participation in class
+S023,Atharva Iyer,September,2024,78.1,94.3,4.1,4.5,Good progress this month
+S023,Atharva Iyer,October,2024,80.8,86.6,3.9,4.3,Showing steady improvement
+S023,Atharva Iyer,November,2024,81.0,95.8,3.9,4.8,"Consistent performance, well done"
+S024,Navya Reddy,June,2024,92.7,89.3,4.5,5.0,"Model student, highly recommended"
+S024,Navya Reddy,July,2024,94.7,98.3,4.3,5.0,"Model student, highly recommended"
+S024,Navya Reddy,August,2024,91.5,87.8,4.5,5.0,"Model student, highly recommended"
+S024,Navya Reddy,September,2024,93.1,85.8,4.6,5.0,"Model student, highly recommended"
+S024,Navya Reddy,October,2024,93.3,88.9,4.3,4.9,Outstanding progress throughout the month
+S024,Navya Reddy,November,2024,91.8,86.2,4.3,4.7,Outstanding progress throughout the month
+S025,Yash Mehta,June,2024,84.8,95.5,4.8,4.0,Active participation in class
+S025,Yash Mehta,July,2024,84.6,85.1,4.8,4.3,Showing steady improvement
+S025,Yash Mehta,August,2024,83.7,95.6,4.4,4.1,Showing steady improvement
+S025,Yash Mehta,September,2024,85.7,90.1,4.8,3.9,Excellent work ethic and dedication
+S025,Yash Mehta,October,2024,81.6,87.0,4.7,4.2,"Consistent performance, well done"
+S025,Yash Mehta,November,2024,85.5,86.0,4.4,4.0,Brilliant performance in all subjects
+S026,Jhanvi Kumar,June,2024,68.3,97.2,4.5,4.1,Needs to focus more in class
+S026,Jhanvi Kumar,July,2024,71.4,90.0,4.4,4.4,"Has potential, needs to work harder"
+S026,Jhanvi Kumar,August,2024,66.3,90.0,4.6,4.4,"Has potential, needs to work harder"
+S026,Jhanvi Kumar,September,2024,72.4,87.2,4.6,4.0,"Average performance, can improve"
+S026,Jhanvi Kumar,October,2024,67.8,96.9,4.4,4.0,"Has potential, needs to work harder"
+S026,Jhanvi Kumar,November,2024,68.1,95.6,4.2,4.0,Needs to focus more in class
+S027,Pranav Singh,June,2024,84.8,93.9,4.8,4.2,Good progress this month
+S027,Pranav Singh,July,2024,86.6,95.4,5.0,4.0,Brilliant performance in all subjects
+S027,Pranav Singh,August,2024,84.8,88.5,4.9,4.1,"Consistent performance, well done"
+S027,Pranav Singh,September,2024,80.9,86.5,5.0,4.4,Good progress this month
+S027,Pranav Singh,October,2024,82.6,86.4,5.0,4.3,Maintains good academic standards
+S027,Pranav Singh,November,2024,80.5,88.2,4.6,4.0,Good progress this month
+S028,Myra Bhat,June,2024,77.2,92.7,4.7,4.1,Showing steady improvement
+S028,Myra Bhat,July,2024,76.5,93.3,5.0,4.3,Showing steady improvement
+S028,Myra Bhat,August,2024,79.0,86.3,4.7,4.3,Maintains good academic standards
+S028,Myra Bhat,September,2024,78.0,91.0,5.0,4.4,"Consistent performance, well done"
+S028,Myra Bhat,October,2024,77.9,87.8,4.8,4.3,Maintains good academic standards
+S028,Myra Bhat,November,2024,81.6,87.8,4.8,4.5,Maintains good academic standards
+S029,Advait Mishra,June,2024,85.4,93.3,4.0,4.4,Brilliant performance in all subjects
+S029,Advait Mishra,July,2024,83.6,98.3,3.9,3.8,Good progress this month
+S029,Advait Mishra,August,2024,88.5,92.0,4.2,4.3,Outstanding progress throughout the month
+S029,Advait Mishra,September,2024,86.1,86.4,4.1,4.2,Outstanding progress throughout the month
+S029,Advait Mishra,October,2024,85.8,89.6,4.1,4.0,"Model student, highly recommended"
+S029,Advait Mishra,November,2024,81.7,90.5,3.8,4.3,Active participation in class
+S030,Aaradhya Shah,June,2024,92.5,92.8,5.0,4.8,Brilliant performance in all subjects
+S030,Aaradhya Shah,July,2024,95.2,96.7,5.0,4.5,"Model student, highly recommended"
+S030,Aaradhya Shah,August,2024,98,84.2,5.0,4.8,"Model student, highly recommended"
+S030,Aaradhya Shah,September,2024,98,93.6,5.0,4.8,"Model student, highly recommended"
+S030,Aaradhya Shah,October,2024,98,90.2,4.7,4.8,"Exceptional student, consistently performs well"
+S030,Aaradhya Shah,November,2024,98,83.5,4.7,4.7,Brilliant performance in all subjects
+S031,Vivaan Saxena,June,2024,65.3,96.6,4.1,4.6,"Has potential, needs to work harder"
+S031,Vivaan Saxena,July,2024,64.7,92.5,4.2,4.7,Requires extra attention
+S031,Vivaan Saxena,August,2024,69.9,97.5,4.2,4.6,"Has potential, needs to work harder"
+S031,Vivaan Saxena,September,2024,68.2,84.2,3.9,4.8,"Average performance, can improve"
+S031,Vivaan Saxena,October,2024,69.6,88.5,4.0,4.5,"Satisfactory, requires more effort"
+S031,Vivaan Saxena,November,2024,73.0,97.0,4.0,4.4,"Average performance, can improve"
+S032,Siya Bansal,June,2024,74.7,94.8,4.8,4.1,Needs to focus more in class
+S032,Siya Bansal,July,2024,74.7,93.8,5.0,3.8,Should participate more actively
+S032,Siya Bansal,August,2024,76.3,94.9,4.8,3.9,Showing steady improvement
+S032,Siya Bansal,September,2024,79.8,95.8,5.0,3.8,Showing steady improvement
+S032,Siya Bansal,October,2024,78.9,96.4,4.6,4.2,Showing steady improvement
+S032,Siya Bansal,November,2024,81.9,89.1,4.7,4.2,"Consistent performance, well done"
+S033,Arjun Kulkarni,June,2024,87.5,92.3,4.2,4.4,Excellent work ethic and dedication
+S033,Arjun Kulkarni,July,2024,84.0,93.4,4.2,4.0,Active participation in class
+S033,Arjun Kulkarni,August,2024,88.8,83.4,4.6,4.0,Brilliant performance in all subjects
+S033,Arjun Kulkarni,September,2024,88.7,96.0,4.3,4.0,"Exceptional student, consistently performs well"
+S033,Arjun Kulkarni,October,2024,84.8,89.7,4.2,3.9,Maintains good academic standards
+S033,Arjun Kulkarni,November,2024,88.7,93.1,4.2,4.2,Excellent work ethic and dedication
+S034,Priya Kumar,June,2024,82.4,95.6,4.4,3.9,Good progress this month
+S034,Priya Kumar,July,2024,77.9,92.9,4.2,4.1,Maintains good academic standards
+S034,Priya Kumar,August,2024,81.3,90.8,4.5,3.9,Showing steady improvement
+S034,Priya Kumar,September,2024,76.9,87.1,4.4,4.0,Active participation in class
+S034,Priya Kumar,October,2024,78.3,85.4,4.2,4.0,Maintains good academic standards
+S034,Priya Kumar,November,2024,76.1,86.8,4.5,4.1,"Consistent performance, well done"
+S035,Manav Joshi,June,2024,85.2,96.7,5.0,3.9,"Model student, highly recommended"
+S035,Manav Joshi,July,2024,84.4,85.9,4.7,3.9,Active participation in class
+S035,Manav Joshi,August,2024,86.2,88.6,5.0,3.7,"Exceptional student, consistently performs well"
+S035,Manav Joshi,September,2024,86.6,92.4,4.9,4.2,Excellent work ethic and dedication
+S035,Manav Joshi,October,2024,88.4,90.8,4.8,4.1,"Model student, highly recommended"
+S035,Manav Joshi,November,2024,92.1,91.7,5.0,4.2,"Exceptional student, consistently performs well"
+S036,Sakshi Pandey,June,2024,89.6,93.4,4.9,4.6,"Model student, highly recommended"
+S036,Sakshi Pandey,July,2024,87.8,95.4,5.0,4.7,Brilliant performance in all subjects
+S036,Sakshi Pandey,August,2024,90.4,91.2,5.0,5.0,Excellent work ethic and dedication
+S036,Sakshi Pandey,September,2024,91.2,97.6,4.6,5.0,Brilliant performance in all subjects
+S036,Sakshi Pandey,October,2024,88.2,84.1,5.0,5.0,Brilliant performance in all subjects
+S036,Sakshi Pandey,November,2024,88.5,91.5,4.9,4.7,Outstanding progress throughout the month
+S037,Vihaan Menon,June,2024,81.8,86.1,4.4,3.8,Maintains good academic standards
+S037,Vihaan Menon,July,2024,82.7,87.6,4.2,3.9,"Consistent performance, well done"
+S037,Vihaan Menon,August,2024,85.6,98.5,4.1,4.2,"Exceptional student, consistently performs well"
+S037,Vihaan Menon,September,2024,88.0,90.1,4.4,4.0,"Model student, highly recommended"
+S037,Vihaan Menon,October,2024,88.5,84.9,4.3,3.9,"Exceptional student, consistently performs well"
+S037,Vihaan Menon,November,2024,89.7,85.7,4.3,4.1,"Exceptional student, consistently performs well"
+S038,Tanvi Desai,June,2024,82.4,88.4,4.3,4.2,Showing steady improvement
+S038,Tanvi Desai,July,2024,84.6,96.1,4.5,4.1,Maintains good academic standards
+S038,Tanvi Desai,August,2024,84.5,90.7,4.5,4.4,"Consistent performance, well done"
+S038,Tanvi Desai,September,2024,83.4,95.7,4.5,4.2,Good progress this month
+S038,Tanvi Desai,October,2024,82.6,92.8,4.3,4.2,Maintains good academic standards
+S038,Tanvi Desai,November,2024,83.4,89.8,4.6,4.1,Good progress this month
+S039,Reyansh Reddy,June,2024,64.0,93.8,4.3,4.5,Must focus on weak areas
+S039,Reyansh Reddy,July,2024,64.0,90.4,4.1,4.5,Remedial classes suggested
+S039,Reyansh Reddy,August,2024,64.5,87.5,4.4,4.2,Requires extra attention
+S039,Reyansh Reddy,September,2024,65.0,89.5,4.3,4.2,Should participate more actively
+S039,Reyansh Reddy,October,2024,67.1,87.8,4.4,4.2,"Average performance, can improve"
+S039,Reyansh Reddy,November,2024,66.4,88.8,4.4,4.6,"Average performance, can improve"
+S040,Aisha Kumar,June,2024,97.7,86.5,4.8,4.1,Excellent work ethic and dedication
+S040,Aisha Kumar,July,2024,94.7,91.7,4.8,4.2,Excellent work ethic and dedication
+S040,Aisha Kumar,August,2024,93.9,92.9,4.7,4.1,"Model student, highly recommended"
+S040,Aisha Kumar,September,2024,94.7,91.2,4.7,3.8,Excellent work ethic and dedication
+S040,Aisha Kumar,October,2024,92.4,87.8,4.5,4.0,Brilliant performance in all subjects
+S040,Aisha Kumar,November,2024,92.5,98.5,5.0,4.2,Excellent work ethic and dedication
+S041,Vivaan Tripathi,June,2024,69.8,85.2,4.4,4.7,"Has potential, needs to work harder"
+S041,Vivaan Tripathi,July,2024,73.5,93.3,4.0,4.6,"Satisfactory, requires more effort"
+S041,Vivaan Tripathi,August,2024,69.9,94.2,4.0,4.7,Should participate more actively
+S041,Vivaan Tripathi,September,2024,75.9,94.3,4.3,4.2,Maintains good academic standards
+S041,Vivaan Tripathi,October,2024,76.9,91.1,4.3,4.4,Active participation in class
+S041,Vivaan Tripathi,November,2024,74.3,94.1,4.3,4.2,Should participate more actively
+S042,Sara Jain,June,2024,80.0,88.2,4.8,4.2,"Consistent performance, well done"
+S042,Sara Jain,July,2024,82.7,87.3,4.9,4.1,Active participation in class
+S042,Sara Jain,August,2024,78.9,96.6,5.0,4.1,Good progress this month
+S042,Sara Jain,September,2024,78.4,92.5,5.0,4.5,"Consistent performance, well done"
+S042,Sara Jain,October,2024,76.6,93.7,4.9,4.0,Active participation in class
+S042,Sara Jain,November,2024,76.6,91.9,5.0,4.3,Showing steady improvement
+S043,Shaurya Kumar,June,2024,86.9,88.2,5.0,4.2,Excellent work ethic and dedication
+S043,Shaurya Kumar,July,2024,91.0,95.5,4.6,4.1,Excellent work ethic and dedication
+S043,Shaurya Kumar,August,2024,86.8,88.5,4.7,4.4,Excellent work ethic and dedication
+S043,Shaurya Kumar,September,2024,90.9,90.7,4.9,4.1,Outstanding progress throughout the month
+S043,Shaurya Kumar,October,2024,91.8,85.4,5.0,4.4,Outstanding progress throughout the month
+S043,Shaurya Kumar,November,2024,89.2,96.2,5.0,4.2,Outstanding progress throughout the month
+S044,Tanvi Nair,June,2024,76.1,91.3,4.0,4.4,Maintains good academic standards
+S044,Tanvi Nair,July,2024,75.5,92.7,3.8,4.0,"Consistent performance, well done"
+S044,Tanvi Nair,August,2024,73.8,86.0,4.1,4.4,"Satisfactory, requires more effort"
+S044,Tanvi Nair,September,2024,79.1,93.8,4.0,4.0,Good progress this month
+S044,Tanvi Nair,October,2024,78.6,95.1,4.2,4.0,Maintains good academic standards
+S044,Tanvi Nair,November,2024,75.1,88.6,4.2,4.4,Good progress this month
+S045,Daksh Singh,June,2024,62.3,88.0,4.7,4.7,Must focus on weak areas
+S045,Daksh Singh,July,2024,64.3,84.3,4.7,4.5,Must focus on weak areas
+S045,Daksh Singh,August,2024,68.7,91.6,4.8,4.6,Needs to focus more in class
+S045,Daksh Singh,September,2024,69.6,96.9,5.0,4.6,"Average performance, can improve"
+S045,Daksh Singh,October,2024,67.5,96.3,4.9,4.5,"Satisfactory, requires more effort"
+S045,Daksh Singh,November,2024,69.5,87.1,4.7,4.2,Needs to focus more in class
+S046,Priya Iyer,June,2024,67.8,93.5,3.7,4.8,"Has potential, needs to work harder"
+S046,Priya Iyer,July,2024,68.6,86.1,4.0,4.4,Needs to focus more in class
+S046,Priya Iyer,August,2024,67.7,90.0,3.9,4.6,Needs to focus more in class
+S046,Priya Iyer,September,2024,71.0,83.3,4.3,4.3,"Satisfactory, requires more effort"
+S046,Priya Iyer,October,2024,71.3,95.1,4.0,4.3,"Has potential, needs to work harder"
+S046,Priya Iyer,November,2024,69.3,88.5,3.9,4.7,Should participate more actively
+S047,Kabir Pandey,June,2024,88.1,85.9,4.4,4.7,Brilliant performance in all subjects
+S047,Kabir Pandey,July,2024,86.3,88.4,4.2,4.6,"Model student, highly recommended"
+S047,Kabir Pandey,August,2024,90.9,90.9,4.1,4.3,"Model student, highly recommended"
+S047,Kabir Pandey,September,2024,84.7,86.8,4.5,4.7,Active participation in class
+S047,Kabir Pandey,October,2024,89.6,95.1,4.6,4.5,Brilliant performance in all subjects
+S047,Kabir Pandey,November,2024,83.7,97.6,4.2,4.7,Good progress this month
+S048,Sakshi Desai,June,2024,70.0,87.5,4.0,4.4,"Has potential, needs to work harder"
+S048,Sakshi Desai,July,2024,75.4,96.5,4.4,4.2,Maintains good academic standards
+S048,Sakshi Desai,August,2024,74.2,91.2,4.0,3.9,"Has potential, needs to work harder"
+S048,Sakshi Desai,September,2024,74.5,94.4,4.3,4.2,Should participate more actively
+S048,Sakshi Desai,October,2024,76.6,94.3,4.0,4.2,Maintains good academic standards
+S048,Sakshi Desai,November,2024,79.0,93.8,4.1,4.3,Active participation in class
+S049,Arnav Desai,June,2024,83.0,89.1,4.4,5.0,Good progress this month
+S049,Arnav Desai,July,2024,82.5,88.6,4.1,5.0,Showing steady improvement
+S049,Arnav Desai,August,2024,85.7,94.6,4.2,5.0,"Exceptional student, consistently performs well"
+S049,Arnav Desai,September,2024,82.3,88.9,4.2,4.8,"Consistent performance, well done"
+S049,Arnav Desai,October,2024,83.2,93.6,4.1,4.8,Maintains good academic standards
+S049,Arnav Desai,November,2024,89.1,92.3,4.1,4.8,Brilliant performance in all subjects
+S050,Myra Reddy,June,2024,90.8,90.1,3.9,4.4,Excellent work ethic and dedication
+S050,Myra Reddy,July,2024,85.7,86.1,4.2,4.2,Excellent work ethic and dedication
+S050,Myra Reddy,August,2024,86.7,92.7,4.1,4.2,"Exceptional student, consistently performs well"
+S050,Myra Reddy,September,2024,87.7,92.6,4.1,4.2,Brilliant performance in all subjects
+S050,Myra Reddy,October,2024,89.0,96.8,4.1,4.3,Brilliant performance in all subjects
+S050,Myra Reddy,November,2024,90.1,86.8,4.4,4.5,Brilliant performance in all subjects
+S051,Aryan Iyer,June,2024,65.3,93.9,5.0,3.8,"Has potential, needs to work harder"
+S051,Aryan Iyer,July,2024,65.7,92.2,4.8,4.2,"Satisfactory, requires more effort"
+S051,Aryan Iyer,August,2024,67.8,88.5,4.6,3.9,"Has potential, needs to work harder"
+S051,Aryan Iyer,September,2024,71.7,89.1,5.0,3.7,Should participate more actively
+S051,Aryan Iyer,October,2024,73.9,85.8,5.0,3.9,"Satisfactory, requires more effort"
+S051,Aryan Iyer,November,2024,75.3,84.7,5.0,4.0,Good progress this month
+S052,Aisha Kulkarni,June,2024,87.1,87.2,4.4,5.0,Outstanding progress throughout the month
+S052,Aisha Kulkarni,July,2024,85.6,92.8,4.8,4.9,Brilliant performance in all subjects
+S052,Aisha Kulkarni,August,2024,84.2,92.8,4.5,4.8,"Consistent performance, well done"
+S052,Aisha Kulkarni,September,2024,85.7,93.0,4.4,5.0,Outstanding progress throughout the month
+S052,Aisha Kulkarni,October,2024,83.0,92.5,4.8,4.6,"Consistent performance, well done"
+S052,Aisha Kulkarni,November,2024,81.7,93.5,4.3,5.0,"Consistent performance, well done"
+S053,Aryan Pandey,June,2024,87.9,86.1,4.0,4.2,"Model student, highly recommended"
+S053,Aryan Pandey,July,2024,89.8,91.2,4.2,4.0,Outstanding progress throughout the month
+S053,Aryan Pandey,August,2024,89.8,90.7,4.0,3.8,"Exceptional student, consistently performs well"
+S053,Aryan Pandey,September,2024,86.4,84.7,4.1,4.0,Outstanding progress throughout the month
+S053,Aryan Pandey,October,2024,87.9,87.9,4.2,4.3,"Model student, highly recommended"
+S053,Aryan Pandey,November,2024,87.3,85.5,4.1,4.0,"Model student, highly recommended"
+S054,Diya Mishra,June,2024,85.6,85.0,4.6,4.8,"Model student, highly recommended"
+S054,Diya Mishra,July,2024,88.7,93.7,5.0,5.0,Brilliant performance in all subjects
+S054,Diya Mishra,August,2024,88.6,94.9,4.6,4.7,Excellent work ethic and dedication
+S054,Diya Mishra,September,2024,85.3,91.5,4.8,4.7,"Model student, highly recommended"
+S054,Diya Mishra,October,2024,85.0,92.9,4.6,4.8,"Exceptional student, consistently performs well"
+S054,Diya Mishra,November,2024,83.2,93.4,5.0,5.0,Active participation in class
+S055,Rudra Patel,June,2024,69.0,86.4,4.6,4.0,Should participate more actively
+S055,Rudra Patel,July,2024,75.1,91.5,4.7,4.1,Showing steady improvement
+S055,Rudra Patel,August,2024,74.2,93.2,4.7,4.1,"Satisfactory, requires more effort"
+S055,Rudra Patel,September,2024,75.2,88.0,4.9,3.9,Good progress this month
+S055,Rudra Patel,October,2024,77.4,86.2,4.7,4.4,Showing steady improvement
+S055,Rudra Patel,November,2024,77.7,89.0,4.8,3.8,Showing steady improvement
+S056,Kiara Saxena,June,2024,72.0,91.9,4.5,4.2,"Satisfactory, requires more effort"
+S056,Kiara Saxena,July,2024,72.8,88.7,4.4,4.0,"Satisfactory, requires more effort"
+S056,Kiara Saxena,August,2024,78.4,92.2,4.4,4.3,"Consistent performance, well done"
+S056,Kiara Saxena,September,2024,78.9,90.3,4.5,3.8,Active participation in class
+S056,Kiara Saxena,October,2024,82.0,90.9,4.6,4.3,Good progress this month
+S056,Kiara Saxena,November,2024,83.6,95.1,4.6,4.4,"Consistent performance, well done"
+S057,Krishna Patel,June,2024,68.4,90.2,4.7,4.5,"Satisfactory, requires more effort"
+S057,Krishna Patel,July,2024,73.1,91.5,4.9,4.3,"Satisfactory, requires more effort"
+S057,Krishna Patel,August,2024,75.7,85.4,4.4,4.4,Showing steady improvement
+S057,Krishna Patel,September,2024,74.0,94.8,4.7,4.6,"Has potential, needs to work harder"
+S057,Krishna Patel,October,2024,78.2,85.9,4.4,4.3,Showing steady improvement
+S057,Krishna Patel,November,2024,77.9,89.0,4.7,4.4,Showing steady improvement
+S058,Siya Rao,June,2024,86.5,85.4,4.3,5.0,Brilliant performance in all subjects
+S058,Siya Rao,July,2024,85.7,83.8,4.2,4.8,Outstanding progress throughout the month
+S058,Siya Rao,August,2024,88.6,96.9,4.6,4.9,"Model student, highly recommended"
+S058,Siya Rao,September,2024,85.9,90.4,4.7,5.0,Brilliant performance in all subjects
+S058,Siya Rao,October,2024,86.7,87.3,4.4,5.0,"Model student, highly recommended"
+S058,Siya Rao,November,2024,90.9,86.8,4.6,4.7,Brilliant performance in all subjects
+S059,Ishaan Kulkarni,June,2024,91.5,96.7,4.9,4.3,Outstanding progress throughout the month
+S059,Ishaan Kulkarni,July,2024,94.2,85.2,5.0,4.3,Outstanding progress throughout the month
+S059,Ishaan Kulkarni,August,2024,95.7,90.0,4.6,3.9,Excellent work ethic and dedication
+S059,Ishaan Kulkarni,September,2024,98,85.9,4.6,4.1,"Model student, highly recommended"
+S059,Ishaan Kulkarni,October,2024,98,89.1,4.5,4.2,Outstanding progress throughout the month
+S059,Ishaan Kulkarni,November,2024,98,87.7,5.0,4.2,Outstanding progress throughout the month
+S060,Nisha Dubey,June,2024,78.9,87.6,4.9,4.0,"Consistent performance, well done"
+S060,Nisha Dubey,July,2024,78.9,98.0,4.9,3.9,Showing steady improvement
+S060,Nisha Dubey,August,2024,80.5,90.4,5.0,3.9,Maintains good academic standards
+S060,Nisha Dubey,September,2024,83.2,87.7,4.8,4.4,Active participation in class
+S060,Nisha Dubey,October,2024,84.3,85.0,4.7,4.0,Active participation in class
+S060,Nisha Dubey,November,2024,81.2,95.0,4.7,4.2,Showing steady improvement

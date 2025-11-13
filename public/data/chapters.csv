@@ -1,0 +1,51 @@
+chapterId,subjectId,chapterNumber,chapterTitle,description,estimatedMinutes,difficulty
+MATH_CH1,mathematics,1,Number Systems,Understanding natural whole integers and rational numbers,120,Beginner
+MATH_CH2,mathematics,2,Algebra Basics,Introduction to variables expressions and equations,150,Beginner
+MATH_CH3,mathematics,3,Geometry Fundamentals,Points lines angles and basic shapes,135,Intermediate
+MATH_CH4,mathematics,4,Fractions and Decimals,Working with parts of whole numbers,120,Beginner
+MATH_CH5,mathematics,5,Percentages,Calculating and applying percentages,90,Intermediate
+MATH_CH6,mathematics,6,Mensuration,Area perimeter and volume calculations,150,Intermediate
+MATH_CH7,mathematics,7,Data Handling,Statistics graphs and interpretation,120,Advanced
+MATH_CH8,mathematics,8,Linear Equations,Solving equations in one variable,135,Advanced
+MATH_CH9,mathematics,9,Coordinate Geometry,Plotting points and understanding graphs,120,Advanced
+MATH_CH10,mathematics,10,Trigonometry Basics,Introduction to sine cosine and tangent,150,Expert
+SCI_CH1,science,1,Matter and Its Properties,Understanding states of matter and changes,110,Beginner
+SCI_CH2,science,2,Force and Motion,Newton's laws and basic mechanics,125,Intermediate
+SCI_CH3,science,3,Light and Reflection,Properties of light mirrors and lenses,100,Intermediate
+SCI_CH4,science,4,Sound,Properties and propagation of sound waves,95,Beginner
+SCI_CH5,science,5,Electricity,Basic circuits current and resistance,140,Intermediate
+SCI_CH6,science,6,Magnetism,Magnetic fields and electromagnets,110,Intermediate
+SCI_CH7,science,7,Heat and Temperature,Thermal energy and heat transfer,100,Beginner
+SCI_CH8,science,8,Chemical Reactions,Understanding reactants products and equations,130,Advanced
+SCI_CH9,science,9,Acids Bases and Salts,pH scale and chemical properties,120,Intermediate
+SCI_CH10,science,10,Carbon and Its Compounds,Organic chemistry basics,140,Advanced
+SCI_CH11,science,11,Cell Biology,Structure and function of cells,125,Intermediate
+SCI_CH12,science,12,Human Body Systems,Digestive respiratory and circulatory systems,150,Advanced
+ENG_CH1,english,1,Grammar Essentials,Parts of speech tenses and sentence structure,100,Beginner
+ENG_CH2,english,2,Comprehension Skills,Reading strategies and understanding texts,120,Intermediate
+ENG_CH3,english,3,Vocabulary Building,Word meanings synonyms and antonyms,90,Beginner
+ENG_CH4,english,4,Writing Skills,Essay letter and paragraph writing,135,Intermediate
+ENG_CH5,english,5,Poetry Analysis,Understanding rhyme rhythm and literary devices,110,Advanced
+ENG_CH6,english,6,Story Writing,Creative writing and narrative techniques,120,Intermediate
+ENG_CH7,english,7,Formal Communication,Business letters and formal emails,100,Advanced
+ENG_CH8,english,8,Public Speaking,Presentation skills and effective communication,90,Advanced
+SS_CH1,socialstudies,1,Ancient Civilizations,Indus Valley Egyptian and Mesopotamian cultures,130,Beginner
+SS_CH2,socialstudies,2,Modern India,Independence movement and post-independence era,140,Intermediate
+SS_CH3,socialstudies,3,World Geography,Continents countries and physical features,120,Beginner
+SS_CH4,socialstudies,4,Indian Geography,States rivers and geographical regions,110,Beginner
+SS_CH5,socialstudies,5,Government and Democracy,Constitution rights and responsibilities,125,Intermediate
+SS_CH6,socialstudies,6,Economics Basics,Production distribution and consumption,130,Advanced
+SS_CH7,socialstudies,7,World History,Major events from medieval to modern times,150,Intermediate
+SS_CH8,socialstudies,8,Indian Culture,Festivals traditions and heritage,100,Beginner
+SS_CH9,socialstudies,9,Environmental Studies,Conservation sustainability and climate change,120,Intermediate
+COMP_CH1,computer,1,Introduction to Computers,Hardware software and basic operations,80,Beginner
+COMP_CH2,computer,2,MS Office Suite,Word Excel and PowerPoint basics,100,Beginner
+COMP_CH3,computer,3,Internet and Email,Web browsing and email communication,70,Beginner
+COMP_CH4,computer,4,Programming Basics,Introduction to Python or Scratch,150,Intermediate
+COMP_CH5,computer,5,Algorithms and Logic,Problem-solving and flowcharts,120,Advanced
+COMP_CH6,computer,6,Cyber Safety,Internet safety and digital citizenship,60,Beginner
+ART_CH1,arts,1,Drawing Fundamentals,Lines shapes and shading techniques,90,Beginner
+ART_CH2,arts,2,Color Theory,Understanding primary secondary and complementary colors,80,Beginner
+ART_CH3,arts,3,Painting Techniques,Watercolor and acrylic painting methods,120,Intermediate
+ART_CH4,arts,4,Craft Projects,DIY crafts and creative activities,100,Intermediate
+ART_CH5,arts,5,Art History,Famous artists and art movements,110,Advanced

@@ -1,0 +1,841 @@
+studentId,studentName,class,term,subject,theory_marks,practical_marks,total_marks,max_marks,percentage,grade,teacher_remarks,publish_status
+S001,Rudra Singh,9-A,Term1,Mathematics,56,14,70,100,70.0,B+,Needs improvement,Published
+S001,Rudra Singh,9-A,Term1,Science,45,12,57,100,57.0,C,Requires remedial classes,Published
+S001,Rudra Singh,9-A,Term1,English,47,11,58,100,58.0,C,Parents' attention needed,Published
+S001,Rudra Singh,9-A,Term1,Hindi,62,14,76,100,76.0,B+,Satisfactory performance,Published
+S001,Rudra Singh,9-A,Term1,Social Studies,59,14,73,100,73.0,B+,Can do better,Published
+S001,Rudra Singh,9-A,Term1,Computer Science,48,11,59,100,59.0,C,Parents' attention needed,Published
+S001,Rudra Singh,9-A,Term1,Physical Education,57,16,73,100,73.0,B+,Requires more focus,Published
+S001,Rudra Singh,9-A,Term1,Art & Craft,60,14,74,100,74.0,B+,Can do better,Published
+S001,Rudra Singh,9-A,Term2,Mathematics,60,12,72,100,72.0,B+,Needs improvement,Published
+S001,Rudra Singh,9-A,Term2,Science,53,11,64,100,64.0,B,Requires more focus,Draft
+S001,Rudra Singh,9-A,Term2,English,48,12,60,100,60.0,B,Should work harder,Published
+S001,Rudra Singh,9-A,Term2,Hindi,57,16,73,100,73.0,B+,Needs improvement,Draft
+S001,Rudra Singh,9-A,Term2,Social Studies,60,18,78,100,78.0,B+,Well done,Draft
+S001,Rudra Singh,9-A,Term2,Computer Science,49,13,62,100,62.0,B,Requires more focus,Published
+S001,Rudra Singh,9-A,Term2,Physical Education,51,14,65,100,65.0,B,Should work harder,Published
+S001,Rudra Singh,9-A,Term2,Art & Craft,54,14,68,100,68.0,B,Should work harder,Draft
+S002,Aadhya Saxena,9-A,Term1,Mathematics,56,14,70,100,70.0,B+,Can do better,Published
+S002,Aadhya Saxena,9-A,Term1,Science,71,15,86,100,86.0,A,Commendable effort,Published
+S002,Aadhya Saxena,9-A,Term1,English,64,13,77,100,77.0,B+,Very good,Published
+S002,Aadhya Saxena,9-A,Term1,Hindi,62,14,76,100,76.0,B+,Very good,Published
+S002,Aadhya Saxena,9-A,Term1,Social Studies,64,13,77,100,77.0,B+,Very good,Published
+S002,Aadhya Saxena,9-A,Term1,Computer Science,74,16,90,100,90.0,A+,Brilliant performance,Published
+S002,Aadhya Saxena,9-A,Term1,Physical Education,70,17,87,100,87.0,A,Satisfactory performance,Published
+S002,Aadhya Saxena,9-A,Term1,Art & Craft,65,17,82,100,82.0,A,Commendable effort,Published
+S002,Aadhya Saxena,9-A,Term2,Mathematics,66,19,85,100,85.0,A,Good progress,Draft
+S002,Aadhya Saxena,9-A,Term2,Science,65,16,81,100,81.0,A,Satisfactory performance,Draft
+S002,Aadhya Saxena,9-A,Term2,English,64,16,80,100,80.0,A,Good progress,Published
+S002,Aadhya Saxena,9-A,Term2,Hindi,60,18,78,100,78.0,B+,Commendable effort,Published
+S002,Aadhya Saxena,9-A,Term2,Social Studies,70,16,86,100,86.0,A,Very good,Draft
+S002,Aadhya Saxena,9-A,Term2,Computer Science,68,17,85,100,85.0,A,Very good,Published
+S002,Aadhya Saxena,9-A,Term2,Physical Education,61,18,79,100,79.0,B+,Good progress,Published
+S002,Aadhya Saxena,9-A,Term2,Art & Craft,76,17,93,100,93.0,A+,Brilliant performance,Published
+S003,Ishaan Nair,9-A,Term1,Mathematics,80,20,100,100,100.0,A+,Remarkable progress,Published
+S003,Ishaan Nair,9-A,Term1,Science,72,18,90,100,90.0,A+,Excellent work,Published
+S003,Ishaan Nair,9-A,Term1,English,63,17,80,100,80.0,A,Well done,Published
+S003,Ishaan Nair,9-A,Term1,Hindi,76,19,95,100,95.0,A+,Outstanding performance,Published
+S003,Ishaan Nair,9-A,Term1,Social Studies,80,17,97,100,97.0,A+,Outstanding performance,Published
+S003,Ishaan Nair,9-A,Term1,Computer Science,74,16,90,100,90.0,A+,Excellent work,Published
+S003,Ishaan Nair,9-A,Term1,Physical Education,67,19,86,100,86.0,A,Satisfactory performance,Published
+S003,Ishaan Nair,9-A,Term1,Art & Craft,69,16,85,100,85.0,A,Well done,Published
+S003,Ishaan Nair,9-A,Term2,Mathematics,68,19,87,100,87.0,A,Commendable effort,Published
+S003,Ishaan Nair,9-A,Term2,Science,73,19,92,100,92.0,A+,Outstanding performance,Published
+S003,Ishaan Nair,9-A,Term2,English,76,18,94,100,94.0,A+,Remarkable progress,Published
+S003,Ishaan Nair,9-A,Term2,Hindi,76,20,96,100,96.0,A+,Outstanding performance,Published
+S003,Ishaan Nair,9-A,Term2,Social Studies,71,20,91,100,91.0,A+,Exceptional student,Published
+S003,Ishaan Nair,9-A,Term2,Computer Science,75,20,95,100,95.0,A+,Remarkable progress,Published
+S003,Ishaan Nair,9-A,Term2,Physical Education,71,17,88,100,88.0,A,Very good,Draft
+S003,Ishaan Nair,9-A,Term2,Art & Craft,80,17,97,100,97.0,A+,Exceptional student,Published
+S004,Sara Verma,9-A,Term1,Mathematics,60,15,75,100,75.0,B+,Commendable effort,Published
+S004,Sara Verma,9-A,Term1,Science,65,15,80,100,80.0,A,Commendable effort,Published
+S004,Sara Verma,9-A,Term1,English,53,12,65,100,65.0,B,Should work harder,Published
+S004,Sara Verma,9-A,Term1,Hindi,61,13,74,100,74.0,B+,Requires more focus,Published
+S004,Sara Verma,9-A,Term1,Social Studies,61,13,74,100,74.0,B+,Should work harder,Published
+S004,Sara Verma,9-A,Term1,Computer Science,65,19,84,100,84.0,A,Very good,Published
+S004,Sara Verma,9-A,Term1,Physical Education,70,18,88,100,88.0,A,Commendable effort,Published
+S004,Sara Verma,9-A,Term1,Art & Craft,68,17,85,100,85.0,A,Good progress,Published
+S004,Sara Verma,9-A,Term2,Mathematics,76,18,94,100,94.0,A+,Exceptional student,Published
+S004,Sara Verma,9-A,Term2,Science,67,15,82,100,82.0,A,Satisfactory performance,Published
+S004,Sara Verma,9-A,Term2,English,74,17,91,100,91.0,A+,Remarkable progress,Draft
+S004,Sara Verma,9-A,Term2,Hindi,69,16,85,100,85.0,A,Commendable effort,Published
+S004,Sara Verma,9-A,Term2,Social Studies,71,17,88,100,88.0,A,Well done,Published
+S004,Sara Verma,9-A,Term2,Computer Science,64,16,80,100,80.0,A,Good progress,Published
+S004,Sara Verma,9-A,Term2,Physical Education,71,20,91,100,91.0,A+,Brilliant performance,Published
+S004,Sara Verma,9-A,Term2,Art & Craft,79,19,98,100,98.0,A+,Outstanding performance,Published
+S005,Ved Singh,9-A,Term1,Mathematics,49,11,60,100,60.0,B,Should work harder,Published
+S005,Ved Singh,9-A,Term1,Science,49,12,61,100,61.0,B,Should work harder,Published
+S005,Ved Singh,9-A,Term1,English,52,12,64,100,64.0,B,Average performance,Published
+S005,Ved Singh,9-A,Term1,Hindi,62,15,77,100,77.0,B+,Very good,Published
+S005,Ved Singh,9-A,Term1,Social Studies,53,13,66,100,66.0,B,Average performance,Published
+S005,Ved Singh,9-A,Term1,Computer Science,43,12,55,100,55.0,C,Needs attention,Published
+S005,Ved Singh,9-A,Term1,Physical Education,62,14,76,100,76.0,B+,Satisfactory performance,Published
+S005,Ved Singh,9-A,Term1,Art & Craft,61,17,78,100,78.0,B+,Very good,Published
+S005,Ved Singh,9-A,Term2,Mathematics,45,14,59,100,59.0,C,Weak performance,Published
+S005,Ved Singh,9-A,Term2,Science,64,14,78,100,78.0,B+,Satisfactory performance,Published
+S005,Ved Singh,9-A,Term2,English,47,12,59,100,59.0,C,Weak performance,Published
+S005,Ved Singh,9-A,Term2,Hindi,57,12,69,100,69.0,B,Needs improvement,Published
+S005,Ved Singh,9-A,Term2,Social Studies,69,17,86,100,86.0,A,Commendable effort,Draft
+S005,Ved Singh,9-A,Term2,Computer Science,48,11,59,100,59.0,C,Needs attention,Published
+S005,Ved Singh,9-A,Term2,Physical Education,44,11,55,100,55.0,C,Requires remedial classes,Draft
+S005,Ved Singh,9-A,Term2,Art & Craft,63,16,79,100,79.0,B+,Good progress,Draft
+S006,Shreya Saxena,9-B,Term1,Mathematics,65,14,79,100,79.0,B+,Satisfactory performance,Published
+S006,Shreya Saxena,9-B,Term1,Science,65,17,82,100,82.0,A,Well done,Published
+S006,Shreya Saxena,9-B,Term1,English,66,16,82,100,82.0,A,Very good,Published
+S006,Shreya Saxena,9-B,Term1,Hindi,76,20,96,100,96.0,A+,Exceptional student,Published
+S006,Shreya Saxena,9-B,Term1,Social Studies,64,17,81,100,81.0,A,Well done,Published
+S006,Shreya Saxena,9-B,Term1,Computer Science,80,20,100,100,100.0,A+,Brilliant performance,Published
+S006,Shreya Saxena,9-B,Term1,Physical Education,64,15,79,100,79.0,B+,Well done,Published
+S006,Shreya Saxena,9-B,Term1,Art & Craft,69,16,85,100,85.0,A,Very good,Published
+S006,Shreya Saxena,9-B,Term2,Mathematics,77,19,96,100,96.0,A+,Exceptional student,Published
+S006,Shreya Saxena,9-B,Term2,Science,79,17,96,100,96.0,A+,Remarkable progress,Draft
+S006,Shreya Saxena,9-B,Term2,English,65,14,79,100,79.0,B+,Satisfactory performance,Published
+S006,Shreya Saxena,9-B,Term2,Hindi,77,17,94,100,94.0,A+,Exceptional student,Published
+S006,Shreya Saxena,9-B,Term2,Social Studies,68,15,83,100,83.0,A,Commendable effort,Published
+S006,Shreya Saxena,9-B,Term2,Computer Science,74,19,93,100,93.0,A+,Brilliant performance,Published
+S006,Shreya Saxena,9-B,Term2,Physical Education,79,19,98,100,98.0,A+,Remarkable progress,Draft
+S006,Shreya Saxena,9-B,Term2,Art & Craft,71,16,87,100,87.0,A,Good progress,Published
+S007,Kian Bansal,9-B,Term1,Mathematics,70,16,86,100,86.0,A,Commendable effort,Published
+S007,Kian Bansal,9-B,Term1,Science,66,17,83,100,83.0,A,Commendable effort,Published
+S007,Kian Bansal,9-B,Term1,English,51,13,64,100,64.0,B,Can do better,Published
+S007,Kian Bansal,9-B,Term1,Hindi,67,17,84,100,84.0,A,Well done,Published
+S007,Kian Bansal,9-B,Term1,Social Studies,66,17,83,100,83.0,A,Good progress,Published
+S007,Kian Bansal,9-B,Term1,Computer Science,67,15,82,100,82.0,A,Very good,Published
+S007,Kian Bansal,9-B,Term1,Physical Education,63,17,80,100,80.0,A,Well done,Published
+S007,Kian Bansal,9-B,Term1,Art & Craft,52,13,65,100,65.0,B,Can do better,Published
+S007,Kian Bansal,9-B,Term2,Mathematics,51,12,63,100,63.0,B,Can do better,Published
+S007,Kian Bansal,9-B,Term2,Science,64,18,82,100,82.0,A,Satisfactory performance,Draft
+S007,Kian Bansal,9-B,Term2,English,66,18,84,100,84.0,A,Satisfactory performance,Published
+S007,Kian Bansal,9-B,Term2,Hindi,56,12,68,100,68.0,B,Needs improvement,Published
+S007,Kian Bansal,9-B,Term2,Social Studies,56,16,72,100,72.0,B+,Requires more focus,Published
+S007,Kian Bansal,9-B,Term2,Computer Science,65,14,79,100,79.0,B+,Satisfactory performance,Published
+S007,Kian Bansal,9-B,Term2,Physical Education,75,20,95,100,95.0,A+,Brilliant performance,Draft
+S007,Kian Bansal,9-B,Term2,Art & Craft,63,17,80,100,80.0,A,Commendable effort,Published
+S008,Diya Sinha,9-B,Term1,Mathematics,63,14,77,100,77.0,B+,Satisfactory performance,Published
+S008,Diya Sinha,9-B,Term1,Science,58,13,71,100,71.0,B+,Average performance,Published
+S008,Diya Sinha,9-B,Term1,English,70,17,87,100,87.0,A,Good progress,Published
+S008,Diya Sinha,9-B,Term1,Hindi,56,11,67,100,67.0,B,Average performance,Published
+S008,Diya Sinha,9-B,Term1,Social Studies,52,13,65,100,65.0,B,Average performance,Published
+S008,Diya Sinha,9-B,Term1,Computer Science,57,14,71,100,71.0,B+,Can do better,Published
+S008,Diya Sinha,9-B,Term1,Physical Education,54,12,66,100,66.0,B,Can do better,Published
+S008,Diya Sinha,9-B,Term1,Art & Craft,50,13,63,100,63.0,B,Average performance,Published
+S008,Diya Sinha,9-B,Term2,Mathematics,63,13,76,100,76.0,B+,Good progress,Published
+S008,Diya Sinha,9-B,Term2,Science,64,13,77,100,77.0,B+,Commendable effort,Published
+S008,Diya Sinha,9-B,Term2,English,58,15,73,100,73.0,B+,Average performance,Published
+S008,Diya Sinha,9-B,Term2,Hindi,64,17,81,100,81.0,A,Commendable effort,Published
+S008,Diya Sinha,9-B,Term2,Social Studies,61,15,76,100,76.0,B+,Satisfactory performance,Published
+S008,Diya Sinha,9-B,Term2,Computer Science,52,12,64,100,64.0,B,Requires more focus,Draft
+S008,Diya Sinha,9-B,Term2,Physical Education,57,12,69,100,69.0,B,Should work harder,Draft
+S008,Diya Sinha,9-B,Term2,Art & Craft,52,14,66,100,66.0,B,Should work harder,Draft
+S009,Dhruv Gupta,9-B,Term1,Mathematics,41,12,53,100,53.0,C,Needs attention,Published
+S009,Dhruv Gupta,9-B,Term1,Science,53,12,65,100,65.0,B,Average performance,Published
+S009,Dhruv Gupta,9-B,Term1,English,55,12,67,100,67.0,B,Requires more focus,Published
+S009,Dhruv Gupta,9-B,Term1,Hindi,53,14,67,100,67.0,B,Average performance,Published
+S009,Dhruv Gupta,9-B,Term1,Social Studies,65,16,81,100,81.0,A,Very good,Published
+S009,Dhruv Gupta,9-B,Term1,Computer Science,52,16,68,100,68.0,B,Needs improvement,Published
+S009,Dhruv Gupta,9-B,Term1,Physical Education,52,11,63,100,63.0,B,Needs improvement,Published
+S009,Dhruv Gupta,9-B,Term1,Art & Craft,59,15,74,100,74.0,B+,Can do better,Published
+S009,Dhruv Gupta,9-B,Term2,Mathematics,57,14,71,100,71.0,B+,Can do better,Published
+S009,Dhruv Gupta,9-B,Term2,Science,58,17,75,100,75.0,B+,Good progress,Published
+S009,Dhruv Gupta,9-B,Term2,English,62,15,77,100,77.0,B+,Good progress,Draft
+S009,Dhruv Gupta,9-B,Term2,Hindi,56,14,70,100,70.0,B+,Average performance,Published
+S009,Dhruv Gupta,9-B,Term2,Social Studies,55,15,70,100,70.0,B+,Should work harder,Draft
+S009,Dhruv Gupta,9-B,Term2,Computer Science,56,12,68,100,68.0,B,Needs improvement,Draft
+S009,Dhruv Gupta,9-B,Term2,Physical Education,68,14,82,100,82.0,A,Very good,Draft
+S009,Dhruv Gupta,9-B,Term2,Art & Craft,63,18,81,100,81.0,A,Very good,Draft
+S010,Aadhya Kumar,9-B,Term1,Mathematics,65,17,82,100,82.0,A,Commendable effort,Published
+S010,Aadhya Kumar,9-B,Term1,Science,65,15,80,100,80.0,A,Very good,Published
+S010,Aadhya Kumar,9-B,Term1,English,68,15,83,100,83.0,A,Very good,Published
+S010,Aadhya Kumar,9-B,Term1,Hindi,62,13,75,100,75.0,B+,Satisfactory performance,Published
+S010,Aadhya Kumar,9-B,Term1,Social Studies,64,15,79,100,79.0,B+,Good progress,Published
+S010,Aadhya Kumar,9-B,Term1,Computer Science,57,17,74,100,74.0,B+,Average performance,Published
+S010,Aadhya Kumar,9-B,Term1,Physical Education,68,17,85,100,85.0,A,Satisfactory performance,Published
+S010,Aadhya Kumar,9-B,Term1,Art & Craft,64,15,79,100,79.0,B+,Well done,Published
+S010,Aadhya Kumar,9-B,Term2,Mathematics,51,14,65,100,65.0,B,Can do better,Published
+S010,Aadhya Kumar,9-B,Term2,Science,69,17,86,100,86.0,A,Well done,Published
+S010,Aadhya Kumar,9-B,Term2,English,63,14,77,100,77.0,B+,Satisfactory performance,Published
+S010,Aadhya Kumar,9-B,Term2,Hindi,59,15,74,100,74.0,B+,Average performance,Draft
+S010,Aadhya Kumar,9-B,Term2,Social Studies,67,19,86,100,86.0,A,Very good,Draft
+S010,Aadhya Kumar,9-B,Term2,Computer Science,52,13,65,100,65.0,B,Requires more focus,Published
+S010,Aadhya Kumar,9-B,Term2,Physical Education,62,17,79,100,79.0,B+,Satisfactory performance,Published
+S010,Aadhya Kumar,9-B,Term2,Art & Craft,66,15,81,100,81.0,A,Well done,Published
+S011,Ayaan Nair,9-C,Term1,Mathematics,54,14,68,100,68.0,B,Should work harder,Published
+S011,Ayaan Nair,9-C,Term1,Science,58,16,74,100,74.0,B+,Should work harder,Published
+S011,Ayaan Nair,9-C,Term1,English,57,16,73,100,73.0,B+,Average performance,Published
+S011,Ayaan Nair,9-C,Term1,Hindi,58,14,72,100,72.0,B+,Average performance,Published
+S011,Ayaan Nair,9-C,Term1,Social Studies,51,11,62,100,62.0,B,Can do better,Published
+S011,Ayaan Nair,9-C,Term1,Computer Science,51,15,66,100,66.0,B,Can do better,Published
+S011,Ayaan Nair,9-C,Term1,Physical Education,50,14,64,100,64.0,B,Average performance,Published
+S011,Ayaan Nair,9-C,Term1,Art & Craft,69,18,87,100,87.0,A,Commendable effort,Published
+S011,Ayaan Nair,9-C,Term2,Mathematics,49,12,61,100,61.0,B,Can do better,Published
+S011,Ayaan Nair,9-C,Term2,Science,51,11,62,100,62.0,B,Should work harder,Published
+S011,Ayaan Nair,9-C,Term2,English,50,11,61,100,61.0,B,Should work harder,Published
+S011,Ayaan Nair,9-C,Term2,Hindi,63,17,80,100,80.0,A,Very good,Published
+S011,Ayaan Nair,9-C,Term2,Social Studies,62,16,78,100,78.0,B+,Satisfactory performance,Published
+S011,Ayaan Nair,9-C,Term2,Computer Science,53,12,65,100,65.0,B,Average performance,Published
+S011,Ayaan Nair,9-C,Term2,Physical Education,47,13,60,100,60.0,B,Requires more focus,Published
+S011,Ayaan Nair,9-C,Term2,Art & Craft,68,13,81,100,81.0,A,Good progress,Published
+S012,Zara Mishra,9-C,Term1,Mathematics,76,18,94,100,94.0,A+,Outstanding performance,Published
+S012,Zara Mishra,9-C,Term1,Science,53,16,69,100,69.0,B,Requires more focus,Published
+S012,Zara Mishra,9-C,Term1,English,71,18,89,100,89.0,A,Good progress,Published
+S012,Zara Mishra,9-C,Term1,Hindi,74,18,92,100,92.0,A+,Remarkable progress,Published
+S012,Zara Mishra,9-C,Term1,Social Studies,62,17,79,100,79.0,B+,Satisfactory performance,Published
+S012,Zara Mishra,9-C,Term1,Computer Science,63,16,79,100,79.0,B+,Very good,Published
+S012,Zara Mishra,9-C,Term1,Physical Education,63,15,78,100,78.0,B+,Good progress,Published
+S012,Zara Mishra,9-C,Term1,Art & Craft,63,12,75,100,75.0,B+,Good progress,Published
+S012,Zara Mishra,9-C,Term2,Mathematics,59,12,71,100,71.0,B+,Can do better,Published
+S012,Zara Mishra,9-C,Term2,Science,65,17,82,100,82.0,A,Satisfactory performance,Published
+S012,Zara Mishra,9-C,Term2,English,51,13,64,100,64.0,B,Average performance,Draft
+S012,Zara Mishra,9-C,Term2,Hindi,60,15,75,100,75.0,B+,Well done,Draft
+S012,Zara Mishra,9-C,Term2,Social Studies,72,15,87,100,87.0,A,Satisfactory performance,Published
+S012,Zara Mishra,9-C,Term2,Computer Science,64,15,79,100,79.0,B+,Well done,Published
+S012,Zara Mishra,9-C,Term2,Physical Education,49,12,61,100,61.0,B,Average performance,Draft
+S012,Zara Mishra,9-C,Term2,Art & Craft,75,17,92,100,92.0,A+,Remarkable progress,Published
+S013,Aarav Bansal,9-C,Term1,Mathematics,70,18,88,100,88.0,A,Well done,Published
+S013,Aarav Bansal,9-C,Term1,Science,75,19,94,100,94.0,A+,Remarkable progress,Published
+S013,Aarav Bansal,9-C,Term1,English,65,13,78,100,78.0,B+,Satisfactory performance,Published
+S013,Aarav Bansal,9-C,Term1,Hindi,78,20,98,100,98.0,A+,Exceptional student,Published
+S013,Aarav Bansal,9-C,Term1,Social Studies,56,14,70,100,70.0,B+,Should work harder,Published
+S013,Aarav Bansal,9-C,Term1,Computer Science,69,18,87,100,87.0,A,Commendable effort,Published
+S013,Aarav Bansal,9-C,Term1,Physical Education,57,16,73,100,73.0,B+,Should work harder,Published
+S013,Aarav Bansal,9-C,Term1,Art & Craft,78,19,97,100,97.0,A+,Excellent work,Published
+S013,Aarav Bansal,9-C,Term2,Mathematics,78,19,97,100,97.0,A+,Outstanding performance,Published
+S013,Aarav Bansal,9-C,Term2,Science,73,18,91,100,91.0,A+,Exceptional student,Draft
+S013,Aarav Bansal,9-C,Term2,English,62,16,78,100,78.0,B+,Satisfactory performance,Draft
+S013,Aarav Bansal,9-C,Term2,Hindi,74,19,93,100,93.0,A+,Brilliant performance,Published
+S013,Aarav Bansal,9-C,Term2,Social Studies,70,18,88,100,88.0,A,Well done,Published
+S013,Aarav Bansal,9-C,Term2,Computer Science,66,18,84,100,84.0,A,Very good,Draft
+S013,Aarav Bansal,9-C,Term2,Physical Education,78,20,98,100,98.0,A+,Outstanding performance,Published
+S013,Aarav Bansal,9-C,Term2,Art & Craft,76,20,96,100,96.0,A+,Remarkable progress,Draft
+S014,Saanvi Dubey,9-C,Term1,Mathematics,69,17,86,100,86.0,A,Well done,Published
+S014,Saanvi Dubey,9-C,Term1,Science,73,19,92,100,92.0,A+,Remarkable progress,Published
+S014,Saanvi Dubey,9-C,Term1,English,80,17,97,100,97.0,A+,Outstanding performance,Published
+S014,Saanvi Dubey,9-C,Term1,Hindi,80,18,98,100,98.0,A+,Excellent work,Published
+S014,Saanvi Dubey,9-C,Term1,Social Studies,73,15,88,100,88.0,A,Commendable effort,Published
+S014,Saanvi Dubey,9-C,Term1,Computer Science,69,17,86,100,86.0,A,Very good,Published
+S014,Saanvi Dubey,9-C,Term1,Physical Education,70,17,87,100,87.0,A,Satisfactory performance,Published
+S014,Saanvi Dubey,9-C,Term1,Art & Craft,77,20,97,100,97.0,A+,Exceptional student,Published
+S014,Saanvi Dubey,9-C,Term2,Mathematics,79,18,97,100,97.0,A+,Remarkable progress,Draft
+S014,Saanvi Dubey,9-C,Term2,Science,69,16,85,100,85.0,A,Commendable effort,Draft
+S014,Saanvi Dubey,9-C,Term2,English,75,17,92,100,92.0,A+,Exceptional student,Published
+S014,Saanvi Dubey,9-C,Term2,Hindi,76,18,94,100,94.0,A+,Outstanding performance,Published
+S014,Saanvi Dubey,9-C,Term2,Social Studies,77,20,97,100,97.0,A+,Brilliant performance,Draft
+S014,Saanvi Dubey,9-C,Term2,Computer Science,74,20,94,100,94.0,A+,Brilliant performance,Published
+S014,Saanvi Dubey,9-C,Term2,Physical Education,74,20,94,100,94.0,A+,Brilliant performance,Published
+S014,Saanvi Dubey,9-C,Term2,Art & Craft,76,18,94,100,94.0,A+,Excellent work,Draft
+S015,Rudra Dubey,9-C,Term1,Mathematics,56,15,71,100,71.0,B+,Needs improvement,Published
+S015,Rudra Dubey,9-C,Term1,Science,58,15,73,100,73.0,B+,Requires more focus,Published
+S015,Rudra Dubey,9-C,Term1,English,70,15,85,100,85.0,A,Satisfactory performance,Published
+S015,Rudra Dubey,9-C,Term1,Hindi,46,14,60,100,60.0,B,Should work harder,Published
+S015,Rudra Dubey,9-C,Term1,Social Studies,52,15,67,100,67.0,B,Needs improvement,Published
+S015,Rudra Dubey,9-C,Term1,Computer Science,63,13,76,100,76.0,B+,Good progress,Published
+S015,Rudra Dubey,9-C,Term1,Physical Education,64,13,77,100,77.0,B+,Very good,Published
+S015,Rudra Dubey,9-C,Term1,Art & Craft,59,15,74,100,74.0,B+,Should work harder,Published
+S015,Rudra Dubey,9-C,Term2,Mathematics,67,13,80,100,80.0,A,Well done,Draft
+S015,Rudra Dubey,9-C,Term2,Science,67,16,83,100,83.0,A,Satisfactory performance,Draft
+S015,Rudra Dubey,9-C,Term2,English,57,11,68,100,68.0,B,Can do better,Draft
+S015,Rudra Dubey,9-C,Term2,Hindi,68,16,84,100,84.0,A,Very good,Published
+S015,Rudra Dubey,9-C,Term2,Social Studies,60,11,71,100,71.0,B+,Requires more focus,Published
+S015,Rudra Dubey,9-C,Term2,Computer Science,69,15,84,100,84.0,A,Very good,Published
+S015,Rudra Dubey,9-C,Term2,Physical Education,67,18,85,100,85.0,A,Well done,Published
+S015,Rudra Dubey,9-C,Term2,Art & Craft,60,14,74,100,74.0,B+,Should work harder,Published
+S016,Kiara Malhotra,10-A,Term1,Mathematics,72,15,87,100,87.0,A,Good progress,Published
+S016,Kiara Malhotra,10-A,Term1,Science,52,16,68,100,68.0,B,Requires more focus,Published
+S016,Kiara Malhotra,10-A,Term1,English,73,16,89,100,89.0,A,Satisfactory performance,Published
+S016,Kiara Malhotra,10-A,Term1,Hindi,64,15,79,100,79.0,B+,Satisfactory performance,Published
+S016,Kiara Malhotra,10-A,Term1,Social Studies,67,18,85,100,85.0,A,Well done,Published
+S016,Kiara Malhotra,10-A,Term1,Computer Science,64,18,82,100,82.0,A,Well done,Published
+S016,Kiara Malhotra,10-A,Term1,Physical Education,72,16,88,100,88.0,A,Very good,Published
+S016,Kiara Malhotra,10-A,Term1,Art & Craft,64,18,82,100,82.0,A,Well done,Published
+S016,Kiara Malhotra,10-A,Term2,Mathematics,66,17,83,100,83.0,A,Well done,Published
+S016,Kiara Malhotra,10-A,Term2,Science,68,14,82,100,82.0,A,Good progress,Published
+S016,Kiara Malhotra,10-A,Term2,English,71,19,90,100,90.0,A+,Exceptional student,Draft
+S016,Kiara Malhotra,10-A,Term2,Hindi,59,17,76,100,76.0,B+,Well done,Published
+S016,Kiara Malhotra,10-A,Term2,Social Studies,76,15,91,100,91.0,A+,Brilliant performance,Draft
+S016,Kiara Malhotra,10-A,Term2,Computer Science,67,16,83,100,83.0,A,Commendable effort,Published
+S016,Kiara Malhotra,10-A,Term2,Physical Education,67,14,81,100,81.0,A,Commendable effort,Published
+S016,Kiara Malhotra,10-A,Term2,Art & Craft,78,17,95,100,95.0,A+,Outstanding performance,Draft
+S017,Krishna Chopra,10-A,Term1,Mathematics,68,18,86,100,86.0,A,Satisfactory performance,Published
+S017,Krishna Chopra,10-A,Term1,Science,62,14,76,100,76.0,B+,Good progress,Published
+S017,Krishna Chopra,10-A,Term1,English,58,14,72,100,72.0,B+,Requires more focus,Published
+S017,Krishna Chopra,10-A,Term1,Hindi,59,14,73,100,73.0,B+,Should work harder,Published
+S017,Krishna Chopra,10-A,Term1,Social Studies,69,18,87,100,87.0,A,Well done,Published
+S017,Krishna Chopra,10-A,Term1,Computer Science,60,16,76,100,76.0,B+,Well done,Published
+S017,Krishna Chopra,10-A,Term1,Physical Education,76,17,93,100,93.0,A+,Remarkable progress,Published
+S017,Krishna Chopra,10-A,Term1,Art & Craft,56,13,69,100,69.0,B,Requires more focus,Published
+S017,Krishna Chopra,10-A,Term2,Mathematics,65,18,83,100,83.0,A,Very good,Published
+S017,Krishna Chopra,10-A,Term2,Science,70,19,89,100,89.0,A,Well done,Draft
+S017,Krishna Chopra,10-A,Term2,English,80,19,99,100,99.0,A+,Brilliant performance,Published
+S017,Krishna Chopra,10-A,Term2,Hindi,76,17,93,100,93.0,A+,Excellent work,Published
+S017,Krishna Chopra,10-A,Term2,Social Studies,64,17,81,100,81.0,A,Well done,Draft
+S017,Krishna Chopra,10-A,Term2,Computer Science,71,14,85,100,85.0,A,Satisfactory performance,Draft
+S017,Krishna Chopra,10-A,Term2,Physical Education,73,18,91,100,91.0,A+,Outstanding performance,Published
+S017,Krishna Chopra,10-A,Term2,Art & Craft,56,15,71,100,71.0,B+,Requires more focus,Published
+S018,Avni Iyer,10-A,Term1,Mathematics,49,14,63,100,63.0,B,Can do better,Published
+S018,Avni Iyer,10-A,Term1,Science,60,14,74,100,74.0,B+,Should work harder,Published
+S018,Avni Iyer,10-A,Term1,English,63,13,76,100,76.0,B+,Satisfactory performance,Published
+S018,Avni Iyer,10-A,Term1,Hindi,60,17,77,100,77.0,B+,Commendable effort,Published
+S018,Avni Iyer,10-A,Term1,Social Studies,58,12,70,100,70.0,B+,Average performance,Published
+S018,Avni Iyer,10-A,Term1,Computer Science,55,14,69,100,69.0,B,Can do better,Published
+S018,Avni Iyer,10-A,Term1,Physical Education,53,14,67,100,67.0,B,Should work harder,Published
+S018,Avni Iyer,10-A,Term1,Art & Craft,64,14,78,100,78.0,B+,Satisfactory performance,Published
+S018,Avni Iyer,10-A,Term2,Mathematics,51,14,65,100,65.0,B,Needs improvement,Draft
+S018,Avni Iyer,10-A,Term2,Science,60,15,75,100,75.0,B+,Very good,Published
+S018,Avni Iyer,10-A,Term2,English,70,16,86,100,86.0,A,Good progress,Draft
+S018,Avni Iyer,10-A,Term2,Hindi,51,15,66,100,66.0,B,Can do better,Draft
+S018,Avni Iyer,10-A,Term2,Social Studies,53,13,66,100,66.0,B,Can do better,Draft
+S018,Avni Iyer,10-A,Term2,Computer Science,49,11,60,100,60.0,B,Can do better,Draft
+S018,Avni Iyer,10-A,Term2,Physical Education,53,12,65,100,65.0,B,Needs improvement,Published
+S018,Avni Iyer,10-A,Term2,Art & Craft,50,11,61,100,61.0,B,Should work harder,Published
+S019,Aayan Bhat,10-A,Term1,Mathematics,49,13,62,100,62.0,B,Needs improvement,Published
+S019,Aayan Bhat,10-A,Term1,Science,57,16,73,100,73.0,B+,Needs improvement,Published
+S019,Aayan Bhat,10-A,Term1,English,67,18,85,100,85.0,A,Satisfactory performance,Published
+S019,Aayan Bhat,10-A,Term1,Hindi,72,20,92,100,92.0,A+,Brilliant performance,Published
+S019,Aayan Bhat,10-A,Term1,Social Studies,57,15,72,100,72.0,B+,Can do better,Published
+S019,Aayan Bhat,10-A,Term1,Computer Science,63,19,82,100,82.0,A,Well done,Published
+S019,Aayan Bhat,10-A,Term1,Physical Education,69,14,83,100,83.0,A,Very good,Published
+S019,Aayan Bhat,10-A,Term1,Art & Craft,65,17,82,100,82.0,A,Very good,Published
+S019,Aayan Bhat,10-A,Term2,Mathematics,74,16,90,100,90.0,A+,Outstanding performance,Published
+S019,Aayan Bhat,10-A,Term2,Science,67,15,82,100,82.0,A,Good progress,Published
+S019,Aayan Bhat,10-A,Term2,English,75,19,94,100,94.0,A+,Brilliant performance,Draft
+S019,Aayan Bhat,10-A,Term2,Hindi,64,17,81,100,81.0,A,Commendable effort,Published
+S019,Aayan Bhat,10-A,Term2,Social Studies,69,18,87,100,87.0,A,Satisfactory performance,Published
+S019,Aayan Bhat,10-A,Term2,Computer Science,71,20,91,100,91.0,A+,Excellent work,Published
+S019,Aayan Bhat,10-A,Term2,Physical Education,64,17,81,100,81.0,A,Well done,Published
+S019,Aayan Bhat,10-A,Term2,Art & Craft,65,14,79,100,79.0,B+,Well done,Published
+S020,Aadhya Jain,10-A,Term1,Mathematics,63,14,77,100,77.0,B+,Well done,Published
+S020,Aadhya Jain,10-A,Term1,Science,58,14,72,100,72.0,B+,Needs improvement,Published
+S020,Aadhya Jain,10-A,Term1,English,48,11,59,100,59.0,C,Requires remedial classes,Published
+S020,Aadhya Jain,10-A,Term1,Hindi,52,12,64,100,64.0,B,Should work harder,Published
+S020,Aadhya Jain,10-A,Term1,Social Studies,55,14,69,100,69.0,B,Should work harder,Published
+S020,Aadhya Jain,10-A,Term1,Computer Science,63,12,75,100,75.0,B+,Satisfactory performance,Published
+S020,Aadhya Jain,10-A,Term1,Physical Education,64,15,79,100,79.0,B+,Very good,Published
+S020,Aadhya Jain,10-A,Term1,Art & Craft,61,14,75,100,75.0,B+,Well done,Published
+S020,Aadhya Jain,10-A,Term2,Mathematics,67,15,82,100,82.0,A,Good progress,Draft
+S020,Aadhya Jain,10-A,Term2,Science,60,13,73,100,73.0,B+,Average performance,Draft
+S020,Aadhya Jain,10-A,Term2,English,55,14,69,100,69.0,B,Should work harder,Published
+S020,Aadhya Jain,10-A,Term2,Hindi,71,19,90,100,90.0,A+,Brilliant performance,Draft
+S020,Aadhya Jain,10-A,Term2,Social Studies,72,18,90,100,90.0,A+,Outstanding performance,Draft
+S020,Aadhya Jain,10-A,Term2,Computer Science,66,14,80,100,80.0,A,Good progress,Published
+S020,Aadhya Jain,10-A,Term2,Physical Education,67,17,84,100,84.0,A,Well done,Published
+S020,Aadhya Jain,10-A,Term2,Art & Craft,51,15,66,100,66.0,B,Requires more focus,Published
+S021,Aayan Patel,10-B,Term1,Mathematics,66,13,79,100,79.0,B+,Very good,Published
+S021,Aayan Patel,10-B,Term1,Science,79,18,97,100,97.0,A+,Remarkable progress,Published
+S021,Aayan Patel,10-B,Term1,English,70,17,87,100,87.0,A,Good progress,Published
+S021,Aayan Patel,10-B,Term1,Hindi,66,16,82,100,82.0,A,Commendable effort,Published
+S021,Aayan Patel,10-B,Term1,Social Studies,69,16,85,100,85.0,A,Good progress,Published
+S021,Aayan Patel,10-B,Term1,Computer Science,66,13,79,100,79.0,B+,Very good,Published
+S021,Aayan Patel,10-B,Term1,Physical Education,66,17,83,100,83.0,A,Satisfactory performance,Published
+S021,Aayan Patel,10-B,Term1,Art & Craft,75,19,94,100,94.0,A+,Exceptional student,Published
+S021,Aayan Patel,10-B,Term2,Mathematics,80,17,97,100,97.0,A+,Exceptional student,Published
+S021,Aayan Patel,10-B,Term2,Science,60,17,77,100,77.0,B+,Satisfactory performance,Draft
+S021,Aayan Patel,10-B,Term2,English,75,17,92,100,92.0,A+,Excellent work,Published
+S021,Aayan Patel,10-B,Term2,Hindi,69,16,85,100,85.0,A,Good progress,Published
+S021,Aayan Patel,10-B,Term2,Social Studies,61,16,77,100,77.0,B+,Well done,Published
+S021,Aayan Patel,10-B,Term2,Computer Science,56,16,72,100,72.0,B+,Requires more focus,Published
+S021,Aayan Patel,10-B,Term2,Physical Education,63,17,80,100,80.0,A,Good progress,Draft
+S021,Aayan Patel,10-B,Term2,Art & Craft,77,18,95,100,95.0,A+,Outstanding performance,Published
+S022,Aisha Malhotra,10-B,Term1,Mathematics,65,18,83,100,83.0,A,Very good,Published
+S022,Aisha Malhotra,10-B,Term1,Science,59,15,74,100,74.0,B+,Should work harder,Published
+S022,Aisha Malhotra,10-B,Term1,English,66,16,82,100,82.0,A,Satisfactory performance,Published
+S022,Aisha Malhotra,10-B,Term1,Hindi,55,15,70,100,70.0,B+,Needs improvement,Published
+S022,Aisha Malhotra,10-B,Term1,Social Studies,57,17,74,100,74.0,B+,Requires more focus,Published
+S022,Aisha Malhotra,10-B,Term1,Computer Science,69,15,84,100,84.0,A,Satisfactory performance,Published
+S022,Aisha Malhotra,10-B,Term1,Physical Education,52,14,66,100,66.0,B,Should work harder,Published
+S022,Aisha Malhotra,10-B,Term1,Art & Craft,64,13,77,100,77.0,B+,Satisfactory performance,Published
+S022,Aisha Malhotra,10-B,Term2,Mathematics,72,17,89,100,89.0,A,Well done,Published
+S022,Aisha Malhotra,10-B,Term2,Science,58,11,69,100,69.0,B,Should work harder,Draft
+S022,Aisha Malhotra,10-B,Term2,English,58,14,72,100,72.0,B+,Can do better,Published
+S022,Aisha Malhotra,10-B,Term2,Hindi,53,14,67,100,67.0,B,Can do better,Published
+S022,Aisha Malhotra,10-B,Term2,Social Studies,65,15,80,100,80.0,A,Good progress,Draft
+S022,Aisha Malhotra,10-B,Term2,Computer Science,67,18,85,100,85.0,A,Commendable effort,Published
+S022,Aisha Malhotra,10-B,Term2,Physical Education,74,19,93,100,93.0,A+,Exceptional student,Draft
+S022,Aisha Malhotra,10-B,Term2,Art & Craft,58,16,74,100,74.0,B+,Needs improvement,Published
+S023,Atharva Iyer,10-B,Term1,Mathematics,79,18,97,100,97.0,A+,Exceptional student,Published
+S023,Atharva Iyer,10-B,Term1,Science,72,19,91,100,91.0,A+,Brilliant performance,Published
+S023,Atharva Iyer,10-B,Term1,English,63,17,80,100,80.0,A,Satisfactory performance,Published
+S023,Atharva Iyer,10-B,Term1,Hindi,59,16,75,100,75.0,B+,Well done,Published
+S023,Atharva Iyer,10-B,Term1,Social Studies,69,14,83,100,83.0,A,Commendable effort,Published
+S023,Atharva Iyer,10-B,Term1,Computer Science,80,20,100,100,100.0,A+,Remarkable progress,Published
+S023,Atharva Iyer,10-B,Term1,Physical Education,80,17,97,100,97.0,A+,Remarkable progress,Published
+S023,Atharva Iyer,10-B,Term1,Art & Craft,80,18,98,100,98.0,A+,Exceptional student,Published
+S023,Atharva Iyer,10-B,Term2,Mathematics,80,18,98,100,98.0,A+,Outstanding performance,Published
+S023,Atharva Iyer,10-B,Term2,Science,68,15,83,100,83.0,A,Commendable effort,Draft
+S023,Atharva Iyer,10-B,Term2,English,65,16,81,100,81.0,A,Satisfactory performance,Published
+S023,Atharva Iyer,10-B,Term2,Hindi,80,20,100,100,100.0,A+,Excellent work,Published
+S023,Atharva Iyer,10-B,Term2,Social Studies,74,19,93,100,93.0,A+,Remarkable progress,Published
+S023,Atharva Iyer,10-B,Term2,Computer Science,80,17,97,100,97.0,A+,Exceptional student,Published
+S023,Atharva Iyer,10-B,Term2,Physical Education,70,20,90,100,90.0,A+,Remarkable progress,Published
+S023,Atharva Iyer,10-B,Term2,Art & Craft,77,20,97,100,97.0,A+,Excellent work,Published
+S024,Navya Reddy,10-B,Term1,Mathematics,62,13,75,100,75.0,B+,Well done,Published
+S024,Navya Reddy,10-B,Term1,Science,69,17,86,100,86.0,A,Good progress,Published
+S024,Navya Reddy,10-B,Term1,English,68,18,86,100,86.0,A,Commendable effort,Published
+S024,Navya Reddy,10-B,Term1,Hindi,71,16,87,100,87.0,A,Good progress,Published
+S024,Navya Reddy,10-B,Term1,Social Studies,78,20,98,100,98.0,A+,Outstanding performance,Published
+S024,Navya Reddy,10-B,Term1,Computer Science,77,19,96,100,96.0,A+,Brilliant performance,Published
+S024,Navya Reddy,10-B,Term1,Physical Education,60,16,76,100,76.0,B+,Well done,Published
+S024,Navya Reddy,10-B,Term1,Art & Craft,58,15,73,100,73.0,B+,Requires more focus,Published
+S024,Navya Reddy,10-B,Term2,Mathematics,60,14,74,100,74.0,B+,Needs improvement,Published
+S024,Navya Reddy,10-B,Term2,Science,73,20,93,100,93.0,A+,Brilliant performance,Draft
+S024,Navya Reddy,10-B,Term2,English,65,17,82,100,82.0,A,Commendable effort,Published
+S024,Navya Reddy,10-B,Term2,Hindi,73,17,90,100,90.0,A+,Excellent work,Published
+S024,Navya Reddy,10-B,Term2,Social Studies,79,17,96,100,96.0,A+,Remarkable progress,Published
+S024,Navya Reddy,10-B,Term2,Computer Science,68,16,84,100,84.0,A,Satisfactory performance,Draft
+S024,Navya Reddy,10-B,Term2,Physical Education,66,15,81,100,81.0,A,Commendable effort,Published
+S024,Navya Reddy,10-B,Term2,Art & Craft,66,15,81,100,81.0,A,Well done,Draft
+S025,Yash Mehta,10-B,Term1,Mathematics,80,20,100,100,100.0,A+,Exceptional student,Published
+S025,Yash Mehta,10-B,Term1,Science,79,20,99,100,99.0,A+,Brilliant performance,Published
+S025,Yash Mehta,10-B,Term1,English,72,17,89,100,89.0,A,Commendable effort,Published
+S025,Yash Mehta,10-B,Term1,Hindi,67,15,82,100,82.0,A,Satisfactory performance,Published
+S025,Yash Mehta,10-B,Term1,Social Studies,76,16,92,100,92.0,A+,Brilliant performance,Published
+S025,Yash Mehta,10-B,Term1,Computer Science,66,14,80,100,80.0,A,Good progress,Published
+S025,Yash Mehta,10-B,Term1,Physical Education,73,19,92,100,92.0,A+,Excellent work,Published
+S025,Yash Mehta,10-B,Term1,Art & Craft,71,17,88,100,88.0,A,Satisfactory performance,Published
+S025,Yash Mehta,10-B,Term2,Mathematics,67,14,81,100,81.0,A,Satisfactory performance,Draft
+S025,Yash Mehta,10-B,Term2,Science,73,19,92,100,92.0,A+,Outstanding performance,Published
+S025,Yash Mehta,10-B,Term2,English,67,18,85,100,85.0,A,Very good,Draft
+S025,Yash Mehta,10-B,Term2,Hindi,78,18,96,100,96.0,A+,Excellent work,Published
+S025,Yash Mehta,10-B,Term2,Social Studies,75,17,92,100,92.0,A+,Remarkable progress,Published
+S025,Yash Mehta,10-B,Term2,Computer Science,73,17,90,100,90.0,A+,Outstanding performance,Published
+S025,Yash Mehta,10-B,Term2,Physical Education,68,19,87,100,87.0,A,Commendable effort,Draft
+S025,Yash Mehta,10-B,Term2,Art & Craft,72,19,91,100,91.0,A+,Excellent work,Published
+S026,Jhanvi Kumar,10-C,Term1,Mathematics,56,14,70,100,70.0,B+,Requires more focus,Published
+S026,Jhanvi Kumar,10-C,Term1,Science,79,19,98,100,98.0,A+,Outstanding performance,Published
+S026,Jhanvi Kumar,10-C,Term1,English,63,17,80,100,80.0,A,Commendable effort,Published
+S026,Jhanvi Kumar,10-C,Term1,Hindi,64,16,80,100,80.0,A,Commendable effort,Published
+S026,Jhanvi Kumar,10-C,Term1,Social Studies,61,16,77,100,77.0,B+,Satisfactory performance,Published
+S026,Jhanvi Kumar,10-C,Term1,Computer Science,63,14,77,100,77.0,B+,Good progress,Published
+S026,Jhanvi Kumar,10-C,Term1,Physical Education,74,17,91,100,91.0,A+,Outstanding performance,Published
+S026,Jhanvi Kumar,10-C,Term1,Art & Craft,72,16,88,100,88.0,A,Commendable effort,Published
+S026,Jhanvi Kumar,10-C,Term2,Mathematics,78,20,98,100,98.0,A+,Outstanding performance,Published
+S026,Jhanvi Kumar,10-C,Term2,Science,69,19,88,100,88.0,A,Well done,Published
+S026,Jhanvi Kumar,10-C,Term2,English,73,19,92,100,92.0,A+,Outstanding performance,Published
+S026,Jhanvi Kumar,10-C,Term2,Hindi,73,15,88,100,88.0,A,Commendable effort,Draft
+S026,Jhanvi Kumar,10-C,Term2,Social Studies,78,18,96,100,96.0,A+,Outstanding performance,Published
+S026,Jhanvi Kumar,10-C,Term2,Computer Science,76,18,94,100,94.0,A+,Remarkable progress,Draft
+S026,Jhanvi Kumar,10-C,Term2,Physical Education,79,17,96,100,96.0,A+,Excellent work,Published
+S026,Jhanvi Kumar,10-C,Term2,Art & Craft,80,17,97,100,97.0,A+,Exceptional student,Published
+S027,Pranav Singh,10-C,Term1,Mathematics,44,9,53,100,53.0,C,Must improve,Published
+S027,Pranav Singh,10-C,Term1,Science,55,14,69,100,69.0,B,Should work harder,Published
+S027,Pranav Singh,10-C,Term1,English,56,12,68,100,68.0,B,Can do better,Published
+S027,Pranav Singh,10-C,Term1,Hindi,52,11,63,100,63.0,B,Average performance,Published
+S027,Pranav Singh,10-C,Term1,Social Studies,48,13,61,100,61.0,B,Requires more focus,Published
+S027,Pranav Singh,10-C,Term1,Computer Science,57,14,71,100,71.0,B+,Average performance,Published
+S027,Pranav Singh,10-C,Term1,Physical Education,51,13,64,100,64.0,B,Average performance,Published
+S027,Pranav Singh,10-C,Term1,Art & Craft,68,16,84,100,84.0,A,Very good,Published
+S027,Pranav Singh,10-C,Term2,Mathematics,56,16,72,100,72.0,B+,Should work harder,Published
+S027,Pranav Singh,10-C,Term2,Science,62,15,77,100,77.0,B+,Very good,Published
+S027,Pranav Singh,10-C,Term2,English,62,14,76,100,76.0,B+,Well done,Published
+S027,Pranav Singh,10-C,Term2,Hindi,65,15,80,100,80.0,A,Satisfactory performance,Published
+S027,Pranav Singh,10-C,Term2,Social Studies,55,15,70,100,70.0,B+,Should work harder,Published
+S027,Pranav Singh,10-C,Term2,Computer Science,61,12,73,100,73.0,B+,Needs improvement,Draft
+S027,Pranav Singh,10-C,Term2,Physical Education,66,16,82,100,82.0,A,Commendable effort,Draft
+S027,Pranav Singh,10-C,Term2,Art & Craft,63,14,77,100,77.0,B+,Good progress,Draft
+S028,Myra Bhat,10-C,Term1,Mathematics,71,15,86,100,86.0,A,Good progress,Published
+S028,Myra Bhat,10-C,Term1,Science,52,13,65,100,65.0,B,Average performance,Published
+S028,Myra Bhat,10-C,Term1,English,66,13,79,100,79.0,B+,Commendable effort,Published
+S028,Myra Bhat,10-C,Term1,Hindi,61,15,76,100,76.0,B+,Well done,Published
+S028,Myra Bhat,10-C,Term1,Social Studies,63,13,76,100,76.0,B+,Commendable effort,Published
+S028,Myra Bhat,10-C,Term1,Computer Science,59,14,73,100,73.0,B+,Requires more focus,Published
+S028,Myra Bhat,10-C,Term1,Physical Education,65,15,80,100,80.0,A,Good progress,Published
+S028,Myra Bhat,10-C,Term1,Art & Craft,50,12,62,100,62.0,B,Requires more focus,Published
+S028,Myra Bhat,10-C,Term2,Mathematics,68,14,82,100,82.0,A,Well done,Published
+S028,Myra Bhat,10-C,Term2,Science,75,17,92,100,92.0,A+,Brilliant performance,Published
+S028,Myra Bhat,10-C,Term2,English,75,17,92,100,92.0,A+,Outstanding performance,Published
+S028,Myra Bhat,10-C,Term2,Hindi,59,13,72,100,72.0,B+,Requires more focus,Published
+S028,Myra Bhat,10-C,Term2,Social Studies,80,19,99,100,99.0,A+,Exceptional student,Draft
+S028,Myra Bhat,10-C,Term2,Computer Science,60,16,76,100,76.0,B+,Well done,Published
+S028,Myra Bhat,10-C,Term2,Physical Education,65,14,79,100,79.0,B+,Well done,Draft
+S028,Myra Bhat,10-C,Term2,Art & Craft,57,14,71,100,71.0,B+,Can do better,Published
+S029,Advait Mishra,10-C,Term1,Mathematics,80,17,97,100,97.0,A+,Exceptional student,Published
+S029,Advait Mishra,10-C,Term1,Science,76,18,94,100,94.0,A+,Remarkable progress,Published
+S029,Advait Mishra,10-C,Term1,English,80,18,98,100,98.0,A+,Brilliant performance,Published
+S029,Advait Mishra,10-C,Term1,Hindi,56,15,71,100,71.0,B+,Requires more focus,Published
+S029,Advait Mishra,10-C,Term1,Social Studies,78,20,98,100,98.0,A+,Remarkable progress,Published
+S029,Advait Mishra,10-C,Term1,Computer Science,79,20,99,100,99.0,A+,Outstanding performance,Published
+S029,Advait Mishra,10-C,Term1,Physical Education,62,13,75,100,75.0,B+,Satisfactory performance,Published
+S029,Advait Mishra,10-C,Term1,Art & Craft,75,19,94,100,94.0,A+,Exceptional student,Published
+S029,Advait Mishra,10-C,Term2,Mathematics,80,20,100,100,100.0,A+,Excellent work,Published
+S029,Advait Mishra,10-C,Term2,Science,73,15,88,100,88.0,A,Very good,Draft
+S029,Advait Mishra,10-C,Term2,English,62,14,76,100,76.0,B+,Good progress,Published
+S029,Advait Mishra,10-C,Term2,Hindi,75,19,94,100,94.0,A+,Brilliant performance,Published
+S029,Advait Mishra,10-C,Term2,Social Studies,60,14,74,100,74.0,B+,Should work harder,Published
+S029,Advait Mishra,10-C,Term2,Computer Science,68,15,83,100,83.0,A,Commendable effort,Draft
+S029,Advait Mishra,10-C,Term2,Physical Education,64,14,78,100,78.0,B+,Commendable effort,Draft
+S029,Advait Mishra,10-C,Term2,Art & Craft,60,17,77,100,77.0,B+,Commendable effort,Published
+S030,Aaradhya Shah,10-C,Term1,Mathematics,59,14,73,100,73.0,B+,Needs improvement,Published
+S030,Aaradhya Shah,10-C,Term1,Science,55,14,69,100,69.0,B,Average performance,Published
+S030,Aaradhya Shah,10-C,Term1,English,63,18,81,100,81.0,A,Satisfactory performance,Published
+S030,Aaradhya Shah,10-C,Term1,Hindi,69,14,83,100,83.0,A,Satisfactory performance,Published
+S030,Aaradhya Shah,10-C,Term1,Social Studies,68,16,84,100,84.0,A,Well done,Published
+S030,Aaradhya Shah,10-C,Term1,Computer Science,59,16,75,100,75.0,B+,Well done,Published
+S030,Aaradhya Shah,10-C,Term1,Physical Education,56,13,69,100,69.0,B,Can do better,Published
+S030,Aaradhya Shah,10-C,Term1,Art & Craft,61,16,77,100,77.0,B+,Satisfactory performance,Published
+S030,Aaradhya Shah,10-C,Term2,Mathematics,62,13,75,100,75.0,B+,Well done,Draft
+S030,Aaradhya Shah,10-C,Term2,Science,58,15,73,100,73.0,B+,Can do better,Published
+S030,Aaradhya Shah,10-C,Term2,English,66,13,79,100,79.0,B+,Well done,Published
+S030,Aaradhya Shah,10-C,Term2,Hindi,57,15,72,100,72.0,B+,Requires more focus,Published
+S030,Aaradhya Shah,10-C,Term2,Social Studies,49,11,60,100,60.0,B,Average performance,Published
+S030,Aaradhya Shah,10-C,Term2,Computer Science,66,15,81,100,81.0,A,Good progress,Published
+S030,Aaradhya Shah,10-C,Term2,Physical Education,64,15,79,100,79.0,B+,Good progress,Published
+S030,Aaradhya Shah,10-C,Term2,Art & Craft,65,16,81,100,81.0,A,Well done,Published
+S031,Vivaan Saxena,11-A,Term1,Mathematics,63,17,80,100,80.0,A,Commendable effort,Published
+S031,Vivaan Saxena,11-A,Term1,Physics,76,18,94,100,94.0,A+,Brilliant performance,Published
+S031,Vivaan Saxena,11-A,Term1,Chemistry,71,17,88,100,88.0,A,Well done,Published
+S031,Vivaan Saxena,11-A,Term1,English,80,20,100,100,100.0,A+,Exceptional student,Published
+S031,Vivaan Saxena,11-A,Term1,Computer Science,73,17,90,100,90.0,A+,Remarkable progress,Published
+S031,Vivaan Saxena,11-A,Term1,Physical Education,69,17,86,100,86.0,A,Satisfactory performance,Published
+S031,Vivaan Saxena,11-A,Term2,Mathematics,70,15,85,100,85.0,A,Commendable effort,Draft
+S031,Vivaan Saxena,11-A,Term2,Physics,73,20,93,100,93.0,A+,Exceptional student,Published
+S031,Vivaan Saxena,11-A,Term2,Chemistry,80,20,100,100,100.0,A+,Brilliant performance,Published
+S031,Vivaan Saxena,11-A,Term2,English,80,20,100,100,100.0,A+,Outstanding performance,Published
+S031,Vivaan Saxena,11-A,Term2,Computer Science,72,17,89,100,89.0,A,Well done,Draft
+S031,Vivaan Saxena,11-A,Term2,Physical Education,74,18,92,100,92.0,A+,Brilliant performance,Draft
+S032,Siya Bansal,11-A,Term1,Mathematics,61,12,73,100,73.0,B+,Needs improvement,Published
+S032,Siya Bansal,11-A,Term1,Physics,46,12,58,100,58.0,C,Requires remedial classes,Published
+S032,Siya Bansal,11-A,Term1,Chemistry,63,14,77,100,77.0,B+,Commendable effort,Published
+S032,Siya Bansal,11-A,Term1,English,58,15,73,100,73.0,B+,Should work harder,Published
+S032,Siya Bansal,11-A,Term1,Computer Science,53,15,68,100,68.0,B,Should work harder,Published
+S032,Siya Bansal,11-A,Term1,Physical Education,66,18,84,100,84.0,A,Well done,Published
+S032,Siya Bansal,11-A,Term2,Mathematics,67,17,84,100,84.0,A,Commendable effort,Published
+S032,Siya Bansal,11-A,Term2,Physics,59,16,75,100,75.0,B+,Well done,Draft
+S032,Siya Bansal,11-A,Term2,Chemistry,55,15,70,100,70.0,B+,Average performance,Draft
+S032,Siya Bansal,11-A,Term2,English,74,15,89,100,89.0,A,Commendable effort,Published
+S032,Siya Bansal,11-A,Term2,Computer Science,63,16,79,100,79.0,B+,Commendable effort,Published
+S032,Siya Bansal,11-A,Term2,Physical Education,65,19,84,100,84.0,A,Satisfactory performance,Published
+S033,Arjun Kulkarni,11-A,Term1,Mathematics,80,20,100,100,100.0,A+,Remarkable progress,Published
+S033,Arjun Kulkarni,11-A,Term1,Physics,73,16,89,100,89.0,A,Very good,Published
+S033,Arjun Kulkarni,11-A,Term1,Chemistry,74,18,92,100,92.0,A+,Outstanding performance,Published
+S033,Arjun Kulkarni,11-A,Term1,English,76,20,96,100,96.0,A+,Excellent work,Published
+S033,Arjun Kulkarni,11-A,Term1,Computer Science,74,20,94,100,94.0,A+,Brilliant performance,Published
+S033,Arjun Kulkarni,11-A,Term1,Physical Education,80,20,100,100,100.0,A+,Outstanding performance,Published
+S033,Arjun Kulkarni,11-A,Term2,Mathematics,75,17,92,100,92.0,A+,Brilliant performance,Published
+S033,Arjun Kulkarni,11-A,Term2,Physics,80,20,100,100,100.0,A+,Remarkable progress,Published
+S033,Arjun Kulkarni,11-A,Term2,Chemistry,75,20,95,100,95.0,A+,Exceptional student,Draft
+S033,Arjun Kulkarni,11-A,Term2,English,80,19,99,100,99.0,A+,Brilliant performance,Published
+S033,Arjun Kulkarni,11-A,Term2,Computer Science,72,18,90,100,90.0,A+,Brilliant performance,Published
+S033,Arjun Kulkarni,11-A,Term2,Physical Education,74,18,92,100,92.0,A+,Excellent work,Draft
+S034,Priya Kumar,11-A,Term1,Mathematics,77,18,95,100,95.0,A+,Remarkable progress,Published
+S034,Priya Kumar,11-A,Term1,Physics,69,16,85,100,85.0,A,Well done,Published
+S034,Priya Kumar,11-A,Term1,Chemistry,64,17,81,100,81.0,A,Satisfactory performance,Published
+S034,Priya Kumar,11-A,Term1,English,67,15,82,100,82.0,A,Well done,Published
+S034,Priya Kumar,11-A,Term1,Computer Science,57,12,69,100,69.0,B,Average performance,Published
+S034,Priya Kumar,11-A,Term1,Physical Education,73,17,90,100,90.0,A+,Remarkable progress,Published
+S034,Priya Kumar,11-A,Term2,Mathematics,66,15,81,100,81.0,A,Commendable effort,Draft
+S034,Priya Kumar,11-A,Term2,Physics,61,14,75,100,75.0,B+,Commendable effort,Draft
+S034,Priya Kumar,11-A,Term2,Chemistry,70,17,87,100,87.0,A,Very good,Draft
+S034,Priya Kumar,11-A,Term2,English,69,16,85,100,85.0,A,Very good,Published
+S034,Priya Kumar,11-A,Term2,Computer Science,68,18,86,100,86.0,A,Very good,Draft
+S034,Priya Kumar,11-A,Term2,Physical Education,74,17,91,100,91.0,A+,Brilliant performance,Published
+S035,Manav Joshi,11-A,Term1,Mathematics,72,17,89,100,89.0,A,Satisfactory performance,Published
+S035,Manav Joshi,11-A,Term1,Physics,70,18,88,100,88.0,A,Well done,Published
+S035,Manav Joshi,11-A,Term1,Chemistry,69,14,83,100,83.0,A,Very good,Published
+S035,Manav Joshi,11-A,Term1,English,76,17,93,100,93.0,A+,Brilliant performance,Published
+S035,Manav Joshi,11-A,Term1,Computer Science,70,17,87,100,87.0,A,Satisfactory performance,Published
+S035,Manav Joshi,11-A,Term1,Physical Education,55,16,71,100,71.0,B+,Requires more focus,Published
+S035,Manav Joshi,11-A,Term2,Mathematics,75,17,92,100,92.0,A+,Outstanding performance,Published
+S035,Manav Joshi,11-A,Term2,Physics,76,16,92,100,92.0,A+,Exceptional student,Published
+S035,Manav Joshi,11-A,Term2,Chemistry,73,19,92,100,92.0,A+,Brilliant performance,Published
+S035,Manav Joshi,11-A,Term2,English,63,16,79,100,79.0,B+,Well done,Published
+S035,Manav Joshi,11-A,Term2,Computer Science,73,19,92,100,92.0,A+,Excellent work,Draft
+S035,Manav Joshi,11-A,Term2,Physical Education,73,17,90,100,90.0,A+,Excellent work,Published
+S036,Sakshi Pandey,11-B,Term1,Mathematics,62,15,77,100,77.0,B+,Commendable effort,Published
+S036,Sakshi Pandey,11-B,Term1,Physics,58,14,72,100,72.0,B+,Should work harder,Published
+S036,Sakshi Pandey,11-B,Term1,Chemistry,61,16,77,100,77.0,B+,Commendable effort,Published
+S036,Sakshi Pandey,11-B,Term1,English,48,14,62,100,62.0,B,Needs improvement,Published
+S036,Sakshi Pandey,11-B,Term1,Computer Science,45,13,58,100,58.0,C,Must improve,Published
+S036,Sakshi Pandey,11-B,Term1,Physical Education,44,12,56,100,56.0,C,Requires remedial classes,Published
+S036,Sakshi Pandey,11-B,Term2,Mathematics,55,14,69,100,69.0,B,Average performance,Draft
+S036,Sakshi Pandey,11-B,Term2,Physics,67,13,80,100,80.0,A,Well done,Draft
+S036,Sakshi Pandey,11-B,Term2,Chemistry,51,11,62,100,62.0,B,Needs improvement,Published
+S036,Sakshi Pandey,11-B,Term2,English,49,14,63,100,63.0,B,Should work harder,Draft
+S036,Sakshi Pandey,11-B,Term2,Computer Science,63,14,77,100,77.0,B+,Well done,Published
+S036,Sakshi Pandey,11-B,Term2,Physical Education,58,14,72,100,72.0,B+,Can do better,Published
+S037,Vihaan Menon,11-B,Term1,Mathematics,50,14,64,100,64.0,B,Average performance,Published
+S037,Vihaan Menon,11-B,Term1,Physics,58,14,72,100,72.0,B+,Should work harder,Published
+S037,Vihaan Menon,11-B,Term1,Chemistry,69,15,84,100,84.0,A,Good progress,Published
+S037,Vihaan Menon,11-B,Term1,English,65,13,78,100,78.0,B+,Commendable effort,Published
+S037,Vihaan Menon,11-B,Term1,Computer Science,59,14,73,100,73.0,B+,Needs improvement,Published
+S037,Vihaan Menon,11-B,Term1,Physical Education,55,12,67,100,67.0,B,Should work harder,Published
+S037,Vihaan Menon,11-B,Term2,Mathematics,56,15,71,100,71.0,B+,Can do better,Published
+S037,Vihaan Menon,11-B,Term2,Physics,59,15,74,100,74.0,B+,Needs improvement,Draft
+S037,Vihaan Menon,11-B,Term2,Chemistry,56,14,70,100,70.0,B+,Needs improvement,Draft
+S037,Vihaan Menon,11-B,Term2,English,54,15,69,100,69.0,B,Can do better,Draft
+S037,Vihaan Menon,11-B,Term2,Computer Science,60,16,76,100,76.0,B+,Very good,Draft
+S037,Vihaan Menon,11-B,Term2,Physical Education,64,14,78,100,78.0,B+,Very good,Published
+S038,Tanvi Desai,11-B,Term1,Mathematics,55,14,69,100,69.0,B,Should work harder,Published
+S038,Tanvi Desai,11-B,Term1,Physics,51,15,66,100,66.0,B,Average performance,Published
+S038,Tanvi Desai,11-B,Term1,Chemistry,68,20,88,100,88.0,A,Very good,Published
+S038,Tanvi Desai,11-B,Term1,English,58,12,70,100,70.0,B+,Average performance,Published
+S038,Tanvi Desai,11-B,Term1,Computer Science,61,15,76,100,76.0,B+,Satisfactory performance,Published
+S038,Tanvi Desai,11-B,Term1,Physical Education,64,16,80,100,80.0,A,Satisfactory performance,Published
+S038,Tanvi Desai,11-B,Term2,Mathematics,63,16,79,100,79.0,B+,Good progress,Draft
+S038,Tanvi Desai,11-B,Term2,Physics,61,15,76,100,76.0,B+,Commendable effort,Published
+S038,Tanvi Desai,11-B,Term2,Chemistry,66,16,82,100,82.0,A,Very good,Published
+S038,Tanvi Desai,11-B,Term2,English,66,18,84,100,84.0,A,Satisfactory performance,Draft
+S038,Tanvi Desai,11-B,Term2,Computer Science,64,15,79,100,79.0,B+,Satisfactory performance,Published
+S038,Tanvi Desai,11-B,Term2,Physical Education,59,14,73,100,73.0,B+,Needs improvement,Published
+S039,Reyansh Reddy,11-B,Term1,Mathematics,80,19,99,100,99.0,A+,Brilliant performance,Published
+S039,Reyansh Reddy,11-B,Term1,Physics,69,17,86,100,86.0,A,Good progress,Published
+S039,Reyansh Reddy,11-B,Term1,Chemistry,52,16,68,100,68.0,B,Needs improvement,Published
+S039,Reyansh Reddy,11-B,Term1,English,70,14,84,100,84.0,A,Good progress,Published
+S039,Reyansh Reddy,11-B,Term1,Computer Science,68,19,87,100,87.0,A,Satisfactory performance,Published
+S039,Reyansh Reddy,11-B,Term1,Physical Education,63,14,77,100,77.0,B+,Very good,Published
+S039,Reyansh Reddy,11-B,Term2,Mathematics,67,16,83,100,83.0,A,Commendable effort,Published
+S039,Reyansh Reddy,11-B,Term2,Physics,74,17,91,100,91.0,A+,Excellent work,Published
+S039,Reyansh Reddy,11-B,Term2,Chemistry,64,16,80,100,80.0,A,Good progress,Published
+S039,Reyansh Reddy,11-B,Term2,English,62,13,75,100,75.0,B+,Commendable effort,Draft
+S039,Reyansh Reddy,11-B,Term2,Computer Science,71,19,90,100,90.0,A+,Brilliant performance,Published
+S039,Reyansh Reddy,11-B,Term2,Physical Education,56,15,71,100,71.0,B+,Should work harder,Published
+S040,Aisha Kumar,11-B,Term1,Mathematics,62,16,78,100,78.0,B+,Good progress,Published
+S040,Aisha Kumar,11-B,Term1,Physics,52,11,63,100,63.0,B,Should work harder,Published
+S040,Aisha Kumar,11-B,Term1,Chemistry,54,13,67,100,67.0,B,Average performance,Published
+S040,Aisha Kumar,11-B,Term1,English,58,16,74,100,74.0,B+,Needs improvement,Published
+S040,Aisha Kumar,11-B,Term1,Computer Science,58,15,73,100,73.0,B+,Should work harder,Published
+S040,Aisha Kumar,11-B,Term1,Physical Education,53,15,68,100,68.0,B,Can do better,Published
+S040,Aisha Kumar,11-B,Term2,Mathematics,50,10,60,100,60.0,B,Requires more focus,Published
+S040,Aisha Kumar,11-B,Term2,Physics,50,10,60,100,60.0,B,Needs improvement,Published
+S040,Aisha Kumar,11-B,Term2,Chemistry,60,15,75,100,75.0,B+,Commendable effort,Published
+S040,Aisha Kumar,11-B,Term2,English,45,13,58,100,58.0,C,Parents' attention needed,Published
+S040,Aisha Kumar,11-B,Term2,Computer Science,55,14,69,100,69.0,B,Average performance,Published
+S040,Aisha Kumar,11-B,Term2,Physical Education,48,10,58,100,58.0,C,Requires remedial classes,Published
+S041,Vivaan Tripathi,11-C,Term1,Mathematics,73,16,89,100,89.0,A,Satisfactory performance,Published
+S041,Vivaan Tripathi,11-C,Term1,Physics,60,14,74,100,74.0,B+,Average performance,Published
+S041,Vivaan Tripathi,11-C,Term1,Chemistry,63,17,80,100,80.0,A,Well done,Published
+S041,Vivaan Tripathi,11-C,Term1,English,58,14,72,100,72.0,B+,Should work harder,Published
+S041,Vivaan Tripathi,11-C,Term1,Computer Science,66,14,80,100,80.0,A,Satisfactory performance,Published
+S041,Vivaan Tripathi,11-C,Term1,Physical Education,71,16,87,100,87.0,A,Well done,Published
+S041,Vivaan Tripathi,11-C,Term2,Mathematics,59,18,77,100,77.0,B+,Good progress,Draft
+S041,Vivaan Tripathi,11-C,Term2,Physics,51,14,65,100,65.0,B,Should work harder,Draft
+S041,Vivaan Tripathi,11-C,Term2,Chemistry,69,17,86,100,86.0,A,Good progress,Published
+S041,Vivaan Tripathi,11-C,Term2,English,59,16,75,100,75.0,B+,Commendable effort,Published
+S041,Vivaan Tripathi,11-C,Term2,Computer Science,68,16,84,100,84.0,A,Well done,Published
+S041,Vivaan Tripathi,11-C,Term2,Physical Education,77,19,96,100,96.0,A+,Remarkable progress,Published
+S042,Sara Jain,11-C,Term1,Mathematics,75,17,92,100,92.0,A+,Excellent work,Published
+S042,Sara Jain,11-C,Term1,Physics,78,19,97,100,97.0,A+,Excellent work,Published
+S042,Sara Jain,11-C,Term1,Chemistry,75,15,90,100,90.0,A+,Brilliant performance,Published
+S042,Sara Jain,11-C,Term1,English,53,12,65,100,65.0,B,Needs improvement,Published
+S042,Sara Jain,11-C,Term1,Computer Science,64,15,79,100,79.0,B+,Very good,Published
+S042,Sara Jain,11-C,Term1,Physical Education,71,16,87,100,87.0,A,Good progress,Published
+S042,Sara Jain,11-C,Term2,Mathematics,71,15,86,100,86.0,A,Commendable effort,Draft
+S042,Sara Jain,11-C,Term2,Physics,80,20,100,100,100.0,A+,Remarkable progress,Published
+S042,Sara Jain,11-C,Term2,Chemistry,63,17,80,100,80.0,A,Satisfactory performance,Published
+S042,Sara Jain,11-C,Term2,English,63,15,78,100,78.0,B+,Commendable effort,Published
+S042,Sara Jain,11-C,Term2,Computer Science,63,16,79,100,79.0,B+,Good progress,Published
+S042,Sara Jain,11-C,Term2,Physical Education,65,14,79,100,79.0,B+,Good progress,Published
+S043,Shaurya Kumar,11-C,Term1,Mathematics,76,18,94,100,94.0,A+,Exceptional student,Published
+S043,Shaurya Kumar,11-C,Term1,Physics,65,14,79,100,79.0,B+,Well done,Published
+S043,Shaurya Kumar,11-C,Term1,Chemistry,70,19,89,100,89.0,A,Good progress,Published
+S043,Shaurya Kumar,11-C,Term1,English,74,19,93,100,93.0,A+,Outstanding performance,Published
+S043,Shaurya Kumar,11-C,Term1,Computer Science,79,16,95,100,95.0,A+,Outstanding performance,Published
+S043,Shaurya Kumar,11-C,Term1,Physical Education,69,18,87,100,87.0,A,Commendable effort,Published
+S043,Shaurya Kumar,11-C,Term2,Mathematics,66,13,79,100,79.0,B+,Good progress,Published
+S043,Shaurya Kumar,11-C,Term2,Physics,73,18,91,100,91.0,A+,Brilliant performance,Published
+S043,Shaurya Kumar,11-C,Term2,Chemistry,68,17,85,100,85.0,A,Good progress,Draft
+S043,Shaurya Kumar,11-C,Term2,English,77,18,95,100,95.0,A+,Outstanding performance,Published
+S043,Shaurya Kumar,11-C,Term2,Computer Science,76,20,96,100,96.0,A+,Brilliant performance,Draft
+S043,Shaurya Kumar,11-C,Term2,Physical Education,58,15,73,100,73.0,B+,Needs improvement,Published
+S044,Tanvi Nair,11-C,Term1,Mathematics,62,17,79,100,79.0,B+,Very good,Published
+S044,Tanvi Nair,11-C,Term1,Physics,55,16,71,100,71.0,B+,Can do better,Published
+S044,Tanvi Nair,11-C,Term1,Chemistry,66,18,84,100,84.0,A,Well done,Published
+S044,Tanvi Nair,11-C,Term1,English,57,13,70,100,70.0,B+,Should work harder,Published
+S044,Tanvi Nair,11-C,Term1,Computer Science,69,15,84,100,84.0,A,Very good,Published
+S044,Tanvi Nair,11-C,Term1,Physical Education,59,13,72,100,72.0,B+,Average performance,Published
+S044,Tanvi Nair,11-C,Term2,Mathematics,77,20,97,100,97.0,A+,Remarkable progress,Published
+S044,Tanvi Nair,11-C,Term2,Physics,59,13,72,100,72.0,B+,Requires more focus,Published
+S044,Tanvi Nair,11-C,Term2,Chemistry,60,17,77,100,77.0,B+,Satisfactory performance,Published
+S044,Tanvi Nair,11-C,Term2,English,63,16,79,100,79.0,B+,Satisfactory performance,Published
+S044,Tanvi Nair,11-C,Term2,Computer Science,77,18,95,100,95.0,A+,Excellent work,Draft
+S044,Tanvi Nair,11-C,Term2,Physical Education,52,14,66,100,66.0,B,Can do better,Published
+S045,Daksh Singh,11-C,Term1,Mathematics,66,14,80,100,80.0,A,Satisfactory performance,Published
+S045,Daksh Singh,11-C,Term1,Physics,52,11,63,100,63.0,B,Needs improvement,Published
+S045,Daksh Singh,11-C,Term1,Chemistry,43,12,55,100,55.0,C,Must improve,Published
+S045,Daksh Singh,11-C,Term1,English,62,13,75,100,75.0,B+,Good progress,Published
+S045,Daksh Singh,11-C,Term1,Computer Science,42,12,54,100,54.0,C,Requires remedial classes,Published
+S045,Daksh Singh,11-C,Term1,Physical Education,60,16,76,100,76.0,B+,Satisfactory performance,Published
+S045,Daksh Singh,11-C,Term2,Mathematics,40,11,51,100,51.0,C,Parents' attention needed,Published
+S045,Daksh Singh,11-C,Term2,Physics,63,14,77,100,77.0,B+,Satisfactory performance,Published
+S045,Daksh Singh,11-C,Term2,Chemistry,52,13,65,100,65.0,B,Needs improvement,Draft
+S045,Daksh Singh,11-C,Term2,English,55,16,71,100,71.0,B+,Should work harder,Published
+S045,Daksh Singh,11-C,Term2,Computer Science,61,14,75,100,75.0,B+,Good progress,Published
+S045,Daksh Singh,11-C,Term2,Physical Education,50,13,63,100,63.0,B,Can do better,Published
+S046,Priya Iyer,12-A,Term1,Mathematics,57,14,71,100,71.0,B+,Requires more focus,Published
+S046,Priya Iyer,12-A,Term1,Physics,62,13,75,100,75.0,B+,Well done,Published
+S046,Priya Iyer,12-A,Term1,Chemistry,57,15,72,100,72.0,B+,Should work harder,Published
+S046,Priya Iyer,12-A,Term1,English,66,18,84,100,84.0,A,Very good,Published
+S046,Priya Iyer,12-A,Term1,Computer Science,55,12,67,100,67.0,B,Requires more focus,Published
+S046,Priya Iyer,12-A,Term1,Physical Education,64,16,80,100,80.0,A,Well done,Published
+S046,Priya Iyer,12-A,Term2,Mathematics,64,17,81,100,81.0,A,Good progress,Published
+S046,Priya Iyer,12-A,Term2,Physics,67,14,81,100,81.0,A,Satisfactory performance,Published
+S046,Priya Iyer,12-A,Term2,Chemistry,60,14,74,100,74.0,B+,Average performance,Draft
+S046,Priya Iyer,12-A,Term2,English,77,19,96,100,96.0,A+,Brilliant performance,Published
+S046,Priya Iyer,12-A,Term2,Computer Science,64,15,79,100,79.0,B+,Satisfactory performance,Published
+S046,Priya Iyer,12-A,Term2,Physical Education,61,13,74,100,74.0,B+,Should work harder,Draft
+S047,Kabir Pandey,12-A,Term1,Mathematics,75,19,94,100,94.0,A+,Outstanding performance,Published
+S047,Kabir Pandey,12-A,Term1,Physics,80,18,98,100,98.0,A+,Remarkable progress,Published
+S047,Kabir Pandey,12-A,Term1,Chemistry,77,17,94,100,94.0,A+,Remarkable progress,Published
+S047,Kabir Pandey,12-A,Term1,English,80,18,98,100,98.0,A+,Exceptional student,Published
+S047,Kabir Pandey,12-A,Term1,Computer Science,71,17,88,100,88.0,A,Satisfactory performance,Published
+S047,Kabir Pandey,12-A,Term1,Physical Education,79,17,96,100,96.0,A+,Remarkable progress,Published
+S047,Kabir Pandey,12-A,Term2,Mathematics,80,20,100,100,100.0,A+,Brilliant performance,Draft
+S047,Kabir Pandey,12-A,Term2,Physics,79,20,99,100,99.0,A+,Outstanding performance,Published
+S047,Kabir Pandey,12-A,Term2,Chemistry,80,20,100,100,100.0,A+,Outstanding performance,Published
+S047,Kabir Pandey,12-A,Term2,English,76,19,95,100,95.0,A+,Excellent work,Draft
+S047,Kabir Pandey,12-A,Term2,Computer Science,73,20,93,100,93.0,A+,Remarkable progress,Published
+S047,Kabir Pandey,12-A,Term2,Physical Education,79,17,96,100,96.0,A+,Outstanding performance,Published
+S048,Sakshi Desai,12-A,Term1,Mathematics,70,20,90,100,90.0,A+,Brilliant performance,Published
+S048,Sakshi Desai,12-A,Term1,Physics,80,20,100,100,100.0,A+,Excellent work,Published
+S048,Sakshi Desai,12-A,Term1,Chemistry,77,20,97,100,97.0,A+,Remarkable progress,Published
+S048,Sakshi Desai,12-A,Term1,English,80,20,100,100,100.0,A+,Brilliant performance,Published
+S048,Sakshi Desai,12-A,Term1,Computer Science,69,15,84,100,84.0,A,Satisfactory performance,Published
+S048,Sakshi Desai,12-A,Term1,Physical Education,67,18,85,100,85.0,A,Very good,Published
+S048,Sakshi Desai,12-A,Term2,Mathematics,75,19,94,100,94.0,A+,Exceptional student,Published
+S048,Sakshi Desai,12-A,Term2,Physics,75,20,95,100,95.0,A+,Remarkable progress,Published
+S048,Sakshi Desai,12-A,Term2,Chemistry,74,20,94,100,94.0,A+,Remarkable progress,Published
+S048,Sakshi Desai,12-A,Term2,English,67,15,82,100,82.0,A,Very good,Published
+S048,Sakshi Desai,12-A,Term2,Computer Science,79,16,95,100,95.0,A+,Excellent work,Draft
+S048,Sakshi Desai,12-A,Term2,Physical Education,75,17,92,100,92.0,A+,Brilliant performance,Published
+S049,Arnav Desai,12-A,Term1,Mathematics,65,16,81,100,81.0,A,Satisfactory performance,Published
+S049,Arnav Desai,12-A,Term1,Physics,61,14,75,100,75.0,B+,Good progress,Published
+S049,Arnav Desai,12-A,Term1,Chemistry,75,18,93,100,93.0,A+,Remarkable progress,Published
+S049,Arnav Desai,12-A,Term1,English,58,12,70,100,70.0,B+,Requires more focus,Published
+S049,Arnav Desai,12-A,Term1,Computer Science,69,18,87,100,87.0,A,Very good,Published
+S049,Arnav Desai,12-A,Term1,Physical Education,70,17,87,100,87.0,A,Well done,Published
+S049,Arnav Desai,12-A,Term2,Mathematics,74,20,94,100,94.0,A+,Outstanding performance,Draft
+S049,Arnav Desai,12-A,Term2,Physics,62,15,77,100,77.0,B+,Good progress,Published
+S049,Arnav Desai,12-A,Term2,Chemistry,59,16,75,100,75.0,B+,Commendable effort,Draft
+S049,Arnav Desai,12-A,Term2,English,70,17,87,100,87.0,A,Commendable effort,Published
+S049,Arnav Desai,12-A,Term2,Computer Science,68,18,86,100,86.0,A,Well done,Published
+S049,Arnav Desai,12-A,Term2,Physical Education,70,18,88,100,88.0,A,Commendable effort,Draft
+S050,Myra Reddy,12-A,Term1,Mathematics,70,15,85,100,85.0,A,Well done,Published
+S050,Myra Reddy,12-A,Term1,Physics,64,16,80,100,80.0,A,Very good,Published
+S050,Myra Reddy,12-A,Term1,Chemistry,68,16,84,100,84.0,A,Commendable effort,Published
+S050,Myra Reddy,12-A,Term1,English,74,20,94,100,94.0,A+,Excellent work,Published
+S050,Myra Reddy,12-A,Term1,Computer Science,79,20,99,100,99.0,A+,Excellent work,Published
+S050,Myra Reddy,12-A,Term1,Physical Education,80,20,100,100,100.0,A+,Excellent work,Published
+S050,Myra Reddy,12-A,Term2,Mathematics,73,17,90,100,90.0,A+,Excellent work,Published
+S050,Myra Reddy,12-A,Term2,Physics,77,20,97,100,97.0,A+,Outstanding performance,Published
+S050,Myra Reddy,12-A,Term2,Chemistry,69,15,84,100,84.0,A,Good progress,Published
+S050,Myra Reddy,12-A,Term2,English,80,20,100,100,100.0,A+,Remarkable progress,Draft
+S050,Myra Reddy,12-A,Term2,Computer Science,79,20,99,100,99.0,A+,Remarkable progress,Published
+S050,Myra Reddy,12-A,Term2,Physical Education,72,15,87,100,87.0,A,Good progress,Published
+S051,Aryan Iyer,12-B,Term1,Mathematics,57,13,70,100,70.0,B+,Should work harder,Published
+S051,Aryan Iyer,12-B,Term1,Physics,61,17,78,100,78.0,B+,Commendable effort,Published
+S051,Aryan Iyer,12-B,Term1,Chemistry,78,20,98,100,98.0,A+,Brilliant performance,Published
+S051,Aryan Iyer,12-B,Term1,English,64,13,77,100,77.0,B+,Well done,Published
+S051,Aryan Iyer,12-B,Term1,Computer Science,79,19,98,100,98.0,A+,Brilliant performance,Published
+S051,Aryan Iyer,12-B,Term1,Physical Education,71,20,91,100,91.0,A+,Brilliant performance,Published
+S051,Aryan Iyer,12-B,Term2,Mathematics,64,16,80,100,80.0,A,Well done,Published
+S051,Aryan Iyer,12-B,Term2,Physics,68,17,85,100,85.0,A,Very good,Published
+S051,Aryan Iyer,12-B,Term2,Chemistry,58,14,72,100,72.0,B+,Should work harder,Draft
+S051,Aryan Iyer,12-B,Term2,English,71,17,88,100,88.0,A,Good progress,Draft
+S051,Aryan Iyer,12-B,Term2,Computer Science,59,14,73,100,73.0,B+,Needs improvement,Draft
+S051,Aryan Iyer,12-B,Term2,Physical Education,70,16,86,100,86.0,A,Commendable effort,Draft
+S052,Aisha Kulkarni,12-B,Term1,Mathematics,65,16,81,100,81.0,A,Well done,Published
+S052,Aisha Kulkarni,12-B,Term1,Physics,75,20,95,100,95.0,A+,Outstanding performance,Published
+S052,Aisha Kulkarni,12-B,Term1,Chemistry,65,14,79,100,79.0,B+,Well done,Published
+S052,Aisha Kulkarni,12-B,Term1,English,74,18,92,100,92.0,A+,Excellent work,Published
+S052,Aisha Kulkarni,12-B,Term1,Computer Science,64,15,79,100,79.0,B+,Satisfactory performance,Published
+S052,Aisha Kulkarni,12-B,Term1,Physical Education,70,20,90,100,90.0,A+,Exceptional student,Published
+S052,Aisha Kulkarni,12-B,Term2,Mathematics,77,20,97,100,97.0,A+,Outstanding performance,Draft
+S052,Aisha Kulkarni,12-B,Term2,Physics,74,20,94,100,94.0,A+,Brilliant performance,Draft
+S052,Aisha Kulkarni,12-B,Term2,Chemistry,72,19,91,100,91.0,A+,Remarkable progress,Published
+S052,Aisha Kulkarni,12-B,Term2,English,73,17,90,100,90.0,A+,Remarkable progress,Draft
+S052,Aisha Kulkarni,12-B,Term2,Computer Science,78,17,95,100,95.0,A+,Brilliant performance,Published
+S052,Aisha Kulkarni,12-B,Term2,Physical Education,71,16,87,100,87.0,A,Satisfactory performance,Published
+S053,Aryan Pandey,12-B,Term1,Mathematics,64,16,80,100,80.0,A,Commendable effort,Published
+S053,Aryan Pandey,12-B,Term1,Physics,69,20,89,100,89.0,A,Satisfactory performance,Published
+S053,Aryan Pandey,12-B,Term1,Chemistry,77,17,94,100,94.0,A+,Outstanding performance,Published
+S053,Aryan Pandey,12-B,Term1,English,65,16,81,100,81.0,A,Very good,Published
+S053,Aryan Pandey,12-B,Term1,Computer Science,57,16,73,100,73.0,B+,Requires more focus,Published
+S053,Aryan Pandey,12-B,Term1,Physical Education,58,13,71,100,71.0,B+,Can do better,Published
+S053,Aryan Pandey,12-B,Term2,Mathematics,65,17,82,100,82.0,A,Very good,Draft
+S053,Aryan Pandey,12-B,Term2,Physics,69,15,84,100,84.0,A,Well done,Draft
+S053,Aryan Pandey,12-B,Term2,Chemistry,74,17,91,100,91.0,A+,Remarkable progress,Draft
+S053,Aryan Pandey,12-B,Term2,English,66,18,84,100,84.0,A,Very good,Draft
+S053,Aryan Pandey,12-B,Term2,Computer Science,59,15,74,100,74.0,B+,Requires more focus,Published
+S053,Aryan Pandey,12-B,Term2,Physical Education,68,15,83,100,83.0,A,Commendable effort,Draft
+S054,Diya Mishra,12-B,Term1,Mathematics,63,15,78,100,78.0,B+,Well done,Published
+S054,Diya Mishra,12-B,Term1,Physics,61,14,75,100,75.0,B+,Satisfactory performance,Published
+S054,Diya Mishra,12-B,Term1,Chemistry,57,15,72,100,72.0,B+,Needs improvement,Published
+S054,Diya Mishra,12-B,Term1,English,72,17,89,100,89.0,A,Well done,Published
+S054,Diya Mishra,12-B,Term1,Computer Science,65,15,80,100,80.0,A,Satisfactory performance,Published
+S054,Diya Mishra,12-B,Term1,Physical Education,73,18,91,100,91.0,A+,Outstanding performance,Published
+S054,Diya Mishra,12-B,Term2,Mathematics,70,20,90,100,90.0,A+,Excellent work,Published
+S054,Diya Mishra,12-B,Term2,Physics,67,16,83,100,83.0,A,Satisfactory performance,Draft
+S054,Diya Mishra,12-B,Term2,Chemistry,79,18,97,100,97.0,A+,Outstanding performance,Published
+S054,Diya Mishra,12-B,Term2,English,60,18,78,100,78.0,B+,Satisfactory performance,Published
+S054,Diya Mishra,12-B,Term2,Computer Science,71,16,87,100,87.0,A,Good progress,Published
+S054,Diya Mishra,12-B,Term2,Physical Education,72,18,90,100,90.0,A+,Brilliant performance,Draft
+S055,Rudra Patel,12-B,Term1,Mathematics,80,19,99,100,99.0,A+,Outstanding performance,Published
+S055,Rudra Patel,12-B,Term1,Physics,77,18,95,100,95.0,A+,Brilliant performance,Published
+S055,Rudra Patel,12-B,Term1,Chemistry,79,18,97,100,97.0,A+,Remarkable progress,Published
+S055,Rudra Patel,12-B,Term1,English,73,15,88,100,88.0,A,Good progress,Published
+S055,Rudra Patel,12-B,Term1,Computer Science,74,16,90,100,90.0,A+,Excellent work,Published
+S055,Rudra Patel,12-B,Term1,Physical Education,78,20,98,100,98.0,A+,Outstanding performance,Published
+S055,Rudra Patel,12-B,Term2,Mathematics,64,16,80,100,80.0,A,Good progress,Published
+S055,Rudra Patel,12-B,Term2,Physics,79,19,98,100,98.0,A+,Brilliant performance,Draft
+S055,Rudra Patel,12-B,Term2,Chemistry,70,15,85,100,85.0,A,Very good,Draft
+S055,Rudra Patel,12-B,Term2,English,61,16,77,100,77.0,B+,Good progress,Published
+S055,Rudra Patel,12-B,Term2,Computer Science,66,18,84,100,84.0,A,Well done,Draft
+S055,Rudra Patel,12-B,Term2,Physical Education,80,20,100,100,100.0,A+,Remarkable progress,Draft
+S056,Kiara Saxena,12-C,Term1,Mathematics,64,19,83,100,83.0,A,Commendable effort,Published
+S056,Kiara Saxena,12-C,Term1,Physics,70,18,88,100,88.0,A,Very good,Published
+S056,Kiara Saxena,12-C,Term1,Chemistry,61,18,79,100,79.0,B+,Good progress,Published
+S056,Kiara Saxena,12-C,Term1,English,75,20,95,100,95.0,A+,Exceptional student,Published
+S056,Kiara Saxena,12-C,Term1,Computer Science,72,15,87,100,87.0,A,Well done,Published
+S056,Kiara Saxena,12-C,Term1,Physical Education,77,18,95,100,95.0,A+,Outstanding performance,Published
+S056,Kiara Saxena,12-C,Term2,Mathematics,61,13,74,100,74.0,B+,Requires more focus,Draft
+S056,Kiara Saxena,12-C,Term2,Physics,69,18,87,100,87.0,A,Good progress,Published
+S056,Kiara Saxena,12-C,Term2,Chemistry,56,12,68,100,68.0,B,Can do better,Published
+S056,Kiara Saxena,12-C,Term2,English,71,19,90,100,90.0,A+,Exceptional student,Published
+S056,Kiara Saxena,12-C,Term2,Computer Science,65,17,82,100,82.0,A,Very good,Published
+S056,Kiara Saxena,12-C,Term2,Physical Education,68,16,84,100,84.0,A,Commendable effort,Published
+S057,Krishna Patel,12-C,Term1,Mathematics,75,15,90,100,90.0,A+,Remarkable progress,Published
+S057,Krishna Patel,12-C,Term1,Physics,79,19,98,100,98.0,A+,Outstanding performance,Published
+S057,Krishna Patel,12-C,Term1,Chemistry,80,18,98,100,98.0,A+,Exceptional student,Published
+S057,Krishna Patel,12-C,Term1,English,67,15,82,100,82.0,A,Commendable effort,Published
+S057,Krishna Patel,12-C,Term1,Computer Science,74,18,92,100,92.0,A+,Brilliant performance,Published
+S057,Krishna Patel,12-C,Term1,Physical Education,59,14,73,100,73.0,B+,Can do better,Published
+S057,Krishna Patel,12-C,Term2,Mathematics,76,20,96,100,96.0,A+,Excellent work,Published
+S057,Krishna Patel,12-C,Term2,Physics,68,17,85,100,85.0,A,Good progress,Published
+S057,Krishna Patel,12-C,Term2,Chemistry,71,17,88,100,88.0,A,Well done,Published
+S057,Krishna Patel,12-C,Term2,English,78,17,95,100,95.0,A+,Brilliant performance,Draft
+S057,Krishna Patel,12-C,Term2,Computer Science,62,15,77,100,77.0,B+,Commendable effort,Published
+S057,Krishna Patel,12-C,Term2,Physical Education,70,19,89,100,89.0,A,Well done,Published
+S058,Siya Rao,12-C,Term1,Mathematics,64,19,83,100,83.0,A,Satisfactory performance,Published
+S058,Siya Rao,12-C,Term1,Physics,60,14,74,100,74.0,B+,Average performance,Published
+S058,Siya Rao,12-C,Term1,Chemistry,74,20,94,100,94.0,A+,Excellent work,Published
+S058,Siya Rao,12-C,Term1,English,72,20,92,100,92.0,A+,Remarkable progress,Published
+S058,Siya Rao,12-C,Term1,Computer Science,76,20,96,100,96.0,A+,Excellent work,Published
+S058,Siya Rao,12-C,Term1,Physical Education,59,17,76,100,76.0,B+,Very good,Published
+S058,Siya Rao,12-C,Term2,Mathematics,75,16,91,100,91.0,A+,Exceptional student,Published
+S058,Siya Rao,12-C,Term2,Physics,80,20,100,100,100.0,A+,Exceptional student,Published
+S058,Siya Rao,12-C,Term2,Chemistry,69,15,84,100,84.0,A,Satisfactory performance,Published
+S058,Siya Rao,12-C,Term2,English,59,15,74,100,74.0,B+,Needs improvement,Published
+S058,Siya Rao,12-C,Term2,Computer Science,70,17,87,100,87.0,A,Well done,Published
+S058,Siya Rao,12-C,Term2,Physical Education,74,20,94,100,94.0,A+,Outstanding performance,Draft
+S059,Ishaan Kulkarni,12-C,Term1,Mathematics,59,14,73,100,73.0,B+,Needs improvement,Published
+S059,Ishaan Kulkarni,12-C,Term1,Physics,69,14,83,100,83.0,A,Satisfactory performance,Published
+S059,Ishaan Kulkarni,12-C,Term1,Chemistry,65,16,81,100,81.0,A,Well done,Published
+S059,Ishaan Kulkarni,12-C,Term1,English,57,15,72,100,72.0,B+,Average performance,Published
+S059,Ishaan Kulkarni,12-C,Term1,Computer Science,61,14,75,100,75.0,B+,Good progress,Published
+S059,Ishaan Kulkarni,12-C,Term1,Physical Education,50,12,62,100,62.0,B,Should work harder,Published
+S059,Ishaan Kulkarni,12-C,Term2,Mathematics,50,12,62,100,62.0,B,Requires more focus,Published
+S059,Ishaan Kulkarni,12-C,Term2,Physics,60,12,72,100,72.0,B+,Should work harder,Published
+S059,Ishaan Kulkarni,12-C,Term2,Chemistry,68,18,86,100,86.0,A,Well done,Published
+S059,Ishaan Kulkarni,12-C,Term2,English,53,12,65,100,65.0,B,Can do better,Draft
+S059,Ishaan Kulkarni,12-C,Term2,Computer Science,62,12,74,100,74.0,B+,Can do better,Published
+S059,Ishaan Kulkarni,12-C,Term2,Physical Education,50,12,62,100,62.0,B,Average performance,Published
+S060,Nisha Dubey,12-C,Term1,Mathematics,71,19,90,100,90.0,A+,Exceptional student,Published
+S060,Nisha Dubey,12-C,Term1,Physics,62,17,79,100,79.0,B+,Satisfactory performance,Published
+S060,Nisha Dubey,12-C,Term1,Chemistry,79,18,97,100,97.0,A+,Outstanding performance,Published
+S060,Nisha Dubey,12-C,Term1,English,70,17,87,100,87.0,A,Very good,Published
+S060,Nisha Dubey,12-C,Term1,Computer Science,58,14,72,100,72.0,B+,Can do better,Published
+S060,Nisha Dubey,12-C,Term1,Physical Education,69,17,86,100,86.0,A,Very good,Published
+S060,Nisha Dubey,12-C,Term2,Mathematics,77,17,94,100,94.0,A+,Outstanding performance,Published
+S060,Nisha Dubey,12-C,Term2,Physics,76,18,94,100,94.0,A+,Excellent work,Published
+S060,Nisha Dubey,12-C,Term2,Chemistry,78,17,95,100,95.0,A+,Outstanding performance,Published
+S060,Nisha Dubey,12-C,Term2,English,64,18,82,100,82.0,A,Satisfactory performance,Draft
+S060,Nisha Dubey,12-C,Term2,Computer Science,78,17,95,100,95.0,A+,Remarkable progress,Draft
+S060,Nisha Dubey,12-C,Term2,Physical Education,73,19,92,100,92.0,A+,Excellent work,Published

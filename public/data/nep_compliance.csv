@@ -1,0 +1,31 @@
+metricId,category,metricName,targetValue,currentValue,unit,status,lastUpdated,quarter,compliancePercent,notes
+NEP-001,Access,Gross Enrollment Ratio (GER),100,92,percentage,On Track,2025-01-10,Q3,92,Steady progress toward universal enrollment
+NEP-002,Equity,Gender Parity Index,1.0,0.95,ratio,Needs Improvement,2025-01-10,Q3,95,Focus needed on girl child enrollment
+NEP-003,Quality,Student-Teacher Ratio,30,28,ratio,Achieved,2025-01-10,Q3,100,Maintaining optimal class sizes
+NEP-004,Quality,Teacher Training Completion,100,85,percentage,On Track,2025-01-10,Q3,85,Regular training programs ongoing
+NEP-005,Infrastructure,Digital Infrastructure,100,78,percentage,On Track,2025-01-10,Q3,78,Smart classrooms being added
+NEP-006,Pedagogy,Competency-Based Assessment,100,88,percentage,On Track,2025-01-10,Q3,88,Transitioning from rote learning
+NEP-007,Curriculum,Multidisciplinary Approach,100,75,percentage,On Track,2025-01-10,Q3,75,Integrating subjects gradually
+NEP-008,Assessment,360° Holistic Progress Cards,100,100,percentage,Achieved,2025-01-10,Q3,100,Successfully implemented
+NEP-009,Language,Multilingual Education,100,82,percentage,On Track,2025-01-10,Q3,82,Regional languages being integrated
+NEP-010,Vocational,Vocational Training Programs,20,18,percentage,On Track,2025-01-10,Q3,90,20 courses operational
+NEP-011,Innovation,Experiential Learning,100,80,percentage,On Track,2025-01-10,Q3,80,Hands-on activities increased
+NEP-012,Technology,AI-Powered Personalization,100,70,percentage,On Track,2025-01-10,Q3,70,PAL system being rolled out
+NEP-013,Assessment,Formative Assessment,100,85,percentage,On Track,2025-01-10,Q3,85,Continuous evaluation adopted
+NEP-014,Curriculum,Coding from Grade 6,100,100,percentage,Achieved,2025-01-10,Q3,100,All grades 6-12 have coding
+NEP-015,Wellbeing,Counselor-Student Ratio,250,280,ratio,Needs Improvement,2025-01-10,Q3,89,Need more counselors
+NEP-016,Infrastructure,Library Resources,100,88,percentage,On Track,2025-01-10,Q3,88,Digital library expanding
+NEP-017,Pedagogy,Activity-Based Learning,100,82,percentage,On Track,2025-01-10,Q3,82,More activities being added
+NEP-018,Assessment,No Detention Policy,100,100,percentage,Achieved,2025-01-10,Q3,100,Successfully implemented
+NEP-019,Dropout,Dropout Rate Reduction,5,6.5,percentage,Needs Improvement,2025-01-10,Q3,77,Intervention programs active
+NEP-020,Parent,Parent-Teacher Engagement,100,75,percentage,On Track,2025-01-10,Q3,75,Regular meetings scheduled
+NEP-021,Sports,Sports and Physical Education,100,90,percentage,On Track,2025-01-10,Q3,90,Daily PE classes operational
+NEP-022,Arts,Arts Integration,100,78,percentage,On Track,2025-01-10,Q3,78,Music and art programs active
+NEP-023,Values,Value Education,100,85,percentage,On Track,2025-01-10,Q3,85,Character building integrated
+NEP-024,Community,Community Engagement,100,72,percentage,On Track,2025-01-10,Q3,72,Local partnerships being built
+NEP-025,Assessment,School Readiness Module,100,100,percentage,Achieved,2025-01-10,Q3,100,Early childhood care operational
+NEP-026,Special,Inclusive Education,100,82,percentage,On Track,2025-01-10,Q3,82,Special needs support available
+NEP-027,Career,Career Counseling,100,76,percentage,On Track,2025-01-10,Q3,76,Counseling programs ongoing
+NEP-028,Research,Research and Innovation,100,65,percentage,Needs Improvement,2025-01-10,Q3,65,Need more research projects
+NEP-029,Nutrition,Mid-Day Meal Program,100,100,percentage,Achieved,2025-01-10,Q3,100,Nutritious meals provided daily
+NEP-030,Safety,School Safety Standards,100,95,percentage,On Track,2025-01-10,Q3,95,Safety protocols in place
